@@ -1,0 +1,5 @@
+pip install bokeh==0.12.6
+
+pip install bkcharts
+
+pip install bkcharts==0.2

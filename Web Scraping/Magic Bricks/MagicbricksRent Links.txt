@@ -1,0 +1,207 @@
+<a class="act" onclick="propResultPager.showPage(2,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);" href="/property-for-rent/residential-real-estate?nsrSearchBar=N&amp;searchTransMode=driving&amp;price=Y&amp;editSearch=Y&amp;sortBy=Lowest%20Price&amp;bar_propertyType_new=10002_10003_10021_10022_10020&amp;tab1=property&amp;proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment,Service-Apartment&amp;cityName=Pune/Page-2"> <b>2</b></a>
+
+
+<a class="act" onclick="propResultPager.showPage(8,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);" href="/property-for-rent/residential-real-estate/Page-8"> <b>8</b></a>
+
+
+Page number Pull:
+<a class="act" onclick="propResultPager.showPage(3,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);" href="/property-for-rent/residential-real-estate/Page-3"> <b>3</b></a>
+
+Issue Fixed: Working URL for Pune Rent All 2,3bhk, lowest first Properties Rent Page 3
+https://www.magicbricks.com/property-for-rent/residential-real-estate?nsrSearchBar=N&searchTransMode=driving&price=Y&editSearch=Y&sortBy=Lowest%20Price&bar_propertyType_new=10002_10003_10021_10022&tab1=property&bedroom=2,3&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&cityName=Pune/Page-3
+
+
+Property listings and items within
+<div class="flex relative clearfix m-srp-card__container">
+<div class="m-srp-card__photo flex__item">
+<div class="m-srp-card__listing-type">
+&nbsp;
+</div>
+<div class="m-photo" onclick="stopPage=true;">
+<div class="m-photo__fig" id="no_image_31806055">
+<img class="m-photo__img lazy" src="https://cdn.staticmb.com/images/noImg/flat_b.jpg" alt="image" data-original="https://cdn.staticmb.com/images/noImg/flat_b.jpg" style="display: inline;">
+</div>
+</div>
+<div class="m-srp-card__post-date pull-right" id="postedSince31806055" itemscope="" itemtype="http://schema.org/DataFeedItem">Posted: <span itemprop="dateCreated"> 11th Jan</span></div>
+</div>
+<div class="m-srp-card__info flex__item">
+<span style="display:none" id="pricePropertyVal31806055" class="m-srp-card__price">
+3,300
+</span>
+<div id="priceProperty31806055" class="m-srp-card__price">₹
+3,300
+</div>
+<div class="relative clearfix">
+<div class="m-srp-card__link m-srp-card__link--semi-bold" id="priceBreakupLink31806055" onclick="showPriceBreakUpData('31806055',event);clickedOtherChargesGAEvent('','buy')">
+See other Charges
+</div>
+<div id="priceByAppDownload31806055" class="priceByAppDownloadSRP"></div>
+<div id="allPricePropWorth31806055" onclick="stopPage=true;" class="allPricePropWorth m-srp-card__other-charges" style="display: none;">
+<span class="showFme"></span>
+<div class="srpdetailWrap">
+<div class="srpdetail_bgTrans"></div>
+<span class="srpdetailArrow"></span>
+<span class="srpdetail_close stop-propagation" onclick="closePriceBreakUpData(event);"></span>
+<div class="bg_greyMid">
+<div class="tr bold active">
+<div class="td">
+Monthly Rent
+</div>
+<div class="td">
+₹ 3,300
+</div>
+</div>
+</div>
+<div class="payPlanScroll nano" style="display: block;">
+<div class="content nano-content" id="priceBreakupScroller31806055">
+<div>
+</div>
+</div>
+</div>
+<div class="applicableCharges">
+<div class="tr">
+<div class="td">
+Security Deposit
+</div>
+<div class="td">
+₹ 10,000
+</div>
+</div>
+</div>
+<div class="bdrTop_Btm bg_greyLgt">
+<div class="tr bold active">
+<div class="td">
+First Month Charges
+</div>
+<div class="td">
+₹ 13,300
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+						gaQuickLink('SRP','OTHER CHARGES buy LINK visible SRP web','');
+					</script>
+</div>
+<div class="m-srp-card__desc flex__item">
+<div class="m-srp-card__heading clearfix">
+<a href="/propertyDetails/2-BHK-600-Sq-ft-Multistorey-Apartment-FOR-Rent-Kothrud-in-Pune&amp;id=4d423331383036303535" target="_blank" class="m-srp-card__title">
+<input type="hidden" id="bedroomVal31806055" value="2">
+<input type="hidden" id="propertyVal31806055" value="Apartment">
+<span class="m-srp-card__title__bhk" onclick="stopPage=true;">
+2 BHK Apartment
+</span>
+for rent in
+Kothrud
+<span class="font-type-3">600 sqft</span>
+<input type="hidden" id="propertyArea31806055" value="600 sqft">
+</a>
+<div class="m-srp-card__link m-srp-card__link--nearby" data-link="/propertyDetails/poiOnMap.html?lat=18.507356&amp;longt=73.8046115&amp;projectOrProp=Project&amp;city=Pune&amp;includeJs=y&amp;type=poiMap2017&amp;address=Pune, Maharashtra" id="map_link_31806055" onclick="stopPage=true; showPhotoMap('/propertyDetails/poiOnMap.html?lat=18.507356&amp;longt=73.8046115&amp;projectOrProp=Project&amp;city=Pune&amp;includeJs=y&amp;type=poiMap2017&amp;address=Pune, Maharashtra');">
+<i class="ico m-srp-card__ico m-srp-card__link--nearby__ico">
+<svg role="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-map"></use>
+</svg>
+</i>What's near by
+</div>
+</div>
+<div class="m-srp-card__collapse js-collapse" aria-collapsed="collapsed" data-container="srp-card-summary">
+<div class="m-srp-card__collapse__control js-collapse__control" data-toggle="list-collapse" data-target="srp-card-summary" onclick="stopPage=true;">
+<div class="ico m-srp-card__ico">
+<svg role="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-caret-down"></use>
+</svg>
+</div>
+</div>
+<div class="m-srp-card__summary js-collapse__content" data-content="srp-card-summary">
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">floor</div>
+<div class="m-srp-card__summary__info">3rd of 5 Floors</div>
+</div>
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">furnishing</div>
+<div class="m-srp-card__summary__info">Semi-Furnished</div>
+</div>
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">tenants preferred</div>
+<div class="m-srp-card__summary__info">
+Family
+</div>
+</div>
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">bathroom</div>
+<div class="m-srp-card__summary__info">2</div>
+</div>
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">availability</div>
+<div class="m-srp-card__summary__info">
+Immediately
+</div>
+</div>
+</div>
+</div>
+<div class="m-srp-card__social-signal">
+<span class="m-srp-card__ico m-srp-card__social-signal__ico">
+<svg role="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-call"></use>
+</svg>
+</span>
+Contacted 7 hour ago
+</div>
+<div class="m-srp-card__description js-content-read-more" data-fulldesc="
+					               		
+					               		
+											 This Multistorey Apartment is located at 3rd floor in a building of total 5 floors. Prime facilities are easily accessible from this place with Girja Hospital (0 km ). Other key neighbourhood are Bharatiya Vidya Bhawan (0 km ). 
+										
+				               		">
+This Multistorey Apartment is located at 3rd floor in a building of total 5 floors. Prime facilities are easily accessible from this place with Girja Hospital (0 km ). Other key neighbourh...
+<span class="m-srp-card__link m-srp-card__link--semi-bold js-toggle-read-more" onclick="stopPage=true;">read more</span>
+</div>
+<div id="propPosition31806055" style="display: none;">1</div>
+<div id="pageNo31806055" style="display: none;">3</div>
+<div class="m-srp-card__action">
+<div class="m-srp-card__action__item">
+<button class="m-srp-card__btn m-srp-card__btn--primary" id="contactBtn31806055" href="javascript:void(0);" onclick="event.stopPropagation(); tagIfollow('');trackSearchResultDetails('3', '1', '31806055', 'C','4378' ); createCookie('contactTrackCookie', 'AA-Contact', -1);setPropCookiesValues('Rent','10002','79751','4378','Rs. 3,300','2','N');if(validateReqPostCookieProp('31806055','Property','')){showPropertyContactForm(this,'31806055','','https://cdn.staticmb.com/images/','above','property','Y');seachVersion='A-';_gaq.push(['_trackPageview', '/4378-A--send-email-sms.html']);clicktrack('3', 'propertyId=31806055,'+'1', 'contactButton'+',sessionId='+sessionId ,'R','','','22801','Pune' ,'','', '','','','11701,11702','Multistorey Apartment,Builder Floor Apartment,Penthouse,Studio Apartment,Service Apartment','','','3422','','',false,'','',''); trackPropertyPosition('3', '1', '31806055', 'contactButton');};">
+Contact Owner
+</button>
+<div class="contactForms">
+<div class="contactForm contactAgentForm formsWrap" id="aboveContactAgentForm31806055" onclick="stopPage=true;" style="display: none;"></div>
+</div>
+</div>
+<div class="m-srp-card__action__item">
+<button class="m-srp-card__btn m-srp-card__btn--primary-o" id="viewPhoneBtn31806055" href="javascript:void(0);" onclick="event.stopPropagation();  tagIfollow('');trackSearchResultDetails('3', '1', '31806055', 'C', '4378'); createCookie('contactTrackCookie', 'AA-Phone', -1);setPropCookiesValues('Rent','10002','79751','4378','Rs. 3,300','2','N');if(validateReqPostCookieProp('31806055','Property','')){viewPropertyPhoneNumber(this,'31806055','','https://cdn.staticmb.com/images/','above','','property','Y');seachVersion='A-';_gaq.push(['_trackPageview', '/4378-A--view-contact-details.html']);clicktrack('3', 'propertyId=31806055,'+'1', 'contactButton'+',sessionId='+sessionId ,'R','','','22801','Pune' ,'','', '','','','11701,11702','Multistorey Apartment,Builder Floor Apartment,Penthouse,Studio Apartment,Service Apartment','','','3422','','',false,'','',''); trackPropertyPosition('3', '1', '31806055', 'contactButton');};">
+View Phone No.
+</button>
+<div class="contactForms">
+<div class="contactForm viewPhoneForm formsWrap" id="aboveAgentPhoneForm31806055" onclick="stopPage=true;" style="display: none;"></div>
+</div>
+</div>
+<div class="m-srp-card__action__item">
+<button class="m-srp-card__btn m-srp-card__btn--ico" id="savedShortList31806055" onclick="stopPage=true;shortListCardBuy('31806055','propertyShortList');_gaq.push(['_trackPageview','Property-div-Save-Srch' ]);">
+<svg role="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-shortlist-o"></use>
+</svg>
+<script type="text/javascript">
+	                       		var $btnShortlist = $("#savedShortList31806055");
+	                       		
+								if(checkIdExistsInPropProjCookie('31806055','propertyShortList')){
+									$btnShortlist.attr("onclick", "stopPage=true;removeShortListCardBuy('31806055','propertyShortList');_gaq.push(['_trackPageview','Property-div-UnSave-Srch' ]);");
+									$btnShortlist.find('use').attr('xlink:href', '#icon-shortlist');
+								}else{
+									$btnShortlist.attr("onclick", "stopPage=true;shortListCardBuy('31806055','propertyShortList');_gaq.push(['_trackPageview','Property-div-Save-Srch' ]);");
+									$btnShortlist.find('use').attr('xlink:href', '#icon-shortlist-o');
+						        }
+						    </script>
+</button>
+</div>
+<div class="m-srp-card__action__item">
+<button class="m-srp-card__btn m-srp-card__btn--link" onclick="event.stopPropagation(); showFeedbackBox('feedback_box', '31806055')">Share Feedback</button>
+</div>
+<div class="m-srp-card__advertiser text-right">
+<div class="m-srp-card__advertiser__type">Owner</div>
+<b class="agentNameh">komal dharwatkar</b>
+</div>
+</div>
+</div>
+</div>

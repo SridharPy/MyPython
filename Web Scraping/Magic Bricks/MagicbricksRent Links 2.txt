@@ -1,0 +1,114 @@
+Posted Date:
+
+<span itemprop="dateCreated">Today</span>
+
+
+Property Details 2bhk, place, sqft:
+<a href="/propertyDetails/2-BHK-768-Sq-ft-Multistorey-Apartment-FOR-Rent-Sus-Road-in-Pune-r1&amp;id=4d423136343033373835" target="_blank" class="m-srp-card__title">
+<input type="hidden" id="bedroomVal16403785" value="2">
+<input type="hidden" id="propertyVal16403785" value="Apartment">
+<span class="m-srp-card__title__bhk" onclick="stopPage=true;">
+2 BHK Apartment
+</span>
+for rent in
+Sus Road
+<span class="font-type-3">768 sqft</span>
+<input type="hidden" id="propertyArea16403785" value="768 sqft">
+</a>
+
+Other Charges:
+<div class="tr">
+<div class="td">
+Monthly Maintenance
+</div>
+<div class="td">
+₹ 650
+</div>
+</div>
+
+<div class="tr">
+<div class="td">
+Brokerage
+(30 days)
+</div>
+<div class="td">
+₹ 30,000
+</div>
+
+</div>
+<div class="tr bold active">
+<div class="td">
+First Month Charges
+</div>
+<div class="td">
+₹ 1,80,000
+</div>
+</div>
+
+
+Owner or Agent:
+<div class="m-srp-card__advertiser__type">Owner</div>
+
+Owner or agent Name
+<b class="agentNameh">daniel daniel</b>
+
+
+
+Feature Items:
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">floor</div>
+<div class="m-srp-card__summary__info">3rd of 3 Floors</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">furnishing</div>
+<div class="m-srp-card__summary__info">Unfurnished</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">tenants preferred</div>
+<div class="m-srp-card__summary__info">
+Family
+</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">bathroom</div>
+<div class="m-srp-card__summary__info">1</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">balcony</div>
+<div class="m-srp-card__summary__info">1</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">facing</div>
+<div class="m-srp-card__summary__info">West</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">project</div>
+<a id="project-link-31952867" class="m-srp-card__summary__link" href="/Mantri-Estate-Salisbury-Park-Pune-pdpid-4d4235303032323834" target="_blank">Mantri Estate</a>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">overlooking</div>
+<div class="m-srp-card__summary__info">Garden/Park</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">availability</div>
+<div class="m-srp-card__summary__info">
+Immediately
+</div>
+</div>
+
+<div class="m-srp-card__summary__item">
+<div class="m-srp-card__summary__title">car parking</div>
+<div class="m-srp-card__summary__info">1 Open</div>
+</div>
+
+
+

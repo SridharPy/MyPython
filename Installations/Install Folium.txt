@@ -1,0 +1,7 @@
+Required for webmaps
+
+pip install folium
+
+if jinja2 installation is asked
+
+pip install jinja2

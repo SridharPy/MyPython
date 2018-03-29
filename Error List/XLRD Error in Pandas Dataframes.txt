@@ -1,0 +1,4 @@
+ModuleNotFoundError: No module named 'xlrd'
+
+Solution: From command line
+pip install xlrd

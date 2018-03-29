@@ -1,0 +1,13 @@
+to convert a geographic location into lattitue and longitude we need a package  GEOPY
+
+From Commandline:
+
+pip install geopy
+
+
+To check methods of geopy
+from python
+dir(geopy)
+To use geopy function like geocoders internet connection should be there, as geocoder send the geographic location name to an online server and that server returns the lattitude and longitude of your location
+
+

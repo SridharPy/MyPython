@@ -1,0 +1,532 @@
+Time: 553.371 ms psql:/home/gpadmin/Maintenancescripts/drop.sql:3: ERROR:  syntax error at or near "drop_temp_table_ddl" 
+:/home/gpadmin/Maintenancescripts/drop.sql:3: ERROR:  syntax error at or near "drop_temp_table_ddl"
+--         ^ psql:/home/gpadmin/Maintenancescripts/drop.sql:4: ERROR:  "ext_gpload_reusable_163a5ba1_3b60_11e4_8905_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:4: ERROR:  "ext_gpload_reusable_163a5ba1_3b60_11e4_8905_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:5: ERROR:  "ext_gpload_reusable_ac385acf_7d69_11e4_af9f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:5: ERROR:  "ext_gpload_reusable_ac385acf_7d69_11e4_af9f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:6: ERROR:  "ext_gpload_reusable_42a6a6cf_7d6e_11e4_8d6a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:6: ERROR:  "ext_gpload_reusable_42a6a6cf_7d6e_11e4_8d6a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:7: ERROR:  "ext_gpload_reusable_b195f0cf_aea8_11e4_8c1e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:7: ERROR:  "ext_gpload_reusable_b195f0cf_aea8_11e4_8c1e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:8: ERROR:  "ext_gpload_reusable_7d1fc121_dde1_11e3_8b8c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:8: ERROR:  "ext_gpload_reusable_7d1fc121_dde1_11e3_8b8c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:9: ERROR:  "ext_gpload_reusable_93a34140_ae3f_11e4_b51f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:9: ERROR:  "ext_gpload_reusable_93a34140_ae3f_11e4_b51f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:10: ERROR:  "ext_gpload_reusable_ea34b100_ad78_11e4_9582_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:10: ERROR:  "ext_gpload_reusable_ea34b100_ad78_11e4_9582_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:11: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140107_000526_7588" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:11: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140107_000526_7588" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:12: ERROR:  "ext_gpload_reusable_3a9c9511_ad40_11e4_ba6b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:12: ERROR:  "ext_gpload_reusable_3a9c9511_ad40_11e4_ba6b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:13: ERROR:  "ext_gpload_reusable_394098e1_accf_11e4_92bc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:13: ERROR:  "ext_gpload_reusable_394098e1_accf_11e4_92bc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:14: ERROR:  "ext_gpload_reusable_fd515cd1_ac4b_11e4_a86b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:14: ERROR:  "ext_gpload_reusable_fd515cd1_ac4b_11e4_a86b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:15: ERROR:  "ext_gpload_reusable_64b4d430_aa9c_11e4_a3ab_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:15: ERROR:  "ext_gpload_reusable_64b4d430_aa9c_11e4_a3ab_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:16: ERROR:  "ext_gpload_reusable_es582dab3b_created_20131112_104405_5572" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:16: ERROR:  "ext_gpload_reusable_es582dab3b_created_20131112_104405_5572" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:17: ERROR:  "ext_gpload_reusable_0a6e46e1_6c45_11e4_8988_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:17: ERROR:  "ext_gpload_reusable_0a6e46e1_6c45_11e4_8988_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:18: ERROR:  "ext_gpload_reusable_6f39624f_39d0_11e4_ae08_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:18: ERROR:  "ext_gpload_reusable_6f39624f_39d0_11e4_ae08_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:19: ERROR:  "ext_gpload_reusable_8877bff0_aa37_11e4_b4e5_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:19: ERROR:  "ext_gpload_reusable_8877bff0_aa37_11e4_b4e5_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:20: ERROR:  "ext_gpload_reusable_bd9c00e1_aa2f_11e4_a95e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:20: ERROR:  "ext_gpload_reusable_bd9c00e1_aa2f_11e4_a95e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:21: ERROR:  "ext_gpload_reusable_062ead4f_a98e_11e4_a3f7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:21: ERROR:  "ext_gpload_reusable_062ead4f_a98e_11e4_a3f7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:22: ERROR:  "ext_gpload_reusable_6f9c5300_a993_11e4_a9d7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:22: ERROR:  "ext_gpload_reusable_6f9c5300_a993_11e4_a9d7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:23: ERROR:  "ext_gpload_reusable_5a4f8e70_a918_11e4_b32c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:23: ERROR:  "ext_gpload_reusable_5a4f8e70_a918_11e4_b32c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:24: ERROR:  "ext_gpload_reusable_d5ec782e_362d_11e4_aed1_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:24: ERROR:  "ext_gpload_reusable_d5ec782e_362d_11e4_aed1_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:25: ERROR:  "ext_gpload_reusable_752b80cf_3601_11e4_96ea_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:25: ERROR:  "ext_gpload_reusable_752b80cf_3601_11e4_96ea_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:26: ERROR:  "ext_gpload_reusable_b04b51a1_3605_11e4_ab08_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:26: ERROR:  "ext_gpload_reusable_b04b51a1_3605_11e4_ab08_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:27: ERROR:  "ext_gpload_reusable_439f969e_34fd_11e4_9907_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:27: ERROR:  "ext_gpload_reusable_439f969e_34fd_11e4_9907_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:28: ERROR:  "ext_gpload_reusable_76b99630_a794_11e4_8e1c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:28: ERROR:  "ext_gpload_reusable_76b99630_a794_11e4_8e1c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:29: ERROR:  "ext_gpload_reusable_342af69e_a538_11e4_a9d6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:29: ERROR:  "ext_gpload_reusable_342af69e_a538_11e4_a9d6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:30: ERROR:  "ext_gpload_reusable_9bdc80cf_a3f2_11e4_b1ca_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:30: ERROR:  "ext_gpload_reusable_9bdc80cf_a3f2_11e4_b1ca_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:31: ERROR:  "ext_gpload_reusable_824e1bc0_a347_11e4_a3ae_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:31: ERROR:  "ext_gpload_reusable_824e1bc0_a347_11e4_a3ae_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:32: ERROR:  "ext_gpload_reusable_0d841761_9f53_11e4_b101_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:32: ERROR:  "ext_gpload_reusable_0d841761_9f53_11e4_b101_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:33: ERROR:  "ext_gpload_reusable_36fb95a1_9e4f_11e4_920b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:33: ERROR:  "ext_gpload_reusable_36fb95a1_9e4f_11e4_920b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:34: ERROR:  "ext_gpload_reusable_2593ba80_9e23_11e4_be8d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:34: ERROR:  "ext_gpload_reusable_2593ba80_9e23_11e4_be8d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:35: ERROR:  "ext_gpload_reusable_9622c8d1_9c7b_11e4_81d2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:35: ERROR:  "ext_gpload_reusable_9622c8d1_9c7b_11e4_81d2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:36: ERROR:  "ext_gpload_reusable_45e82640_32bc_11e4_bf47_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:36: ERROR:  "ext_gpload_reusable_45e82640_32bc_11e4_bf47_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:37: ERROR:  "ext_gpload_reusable_ba4e6e80_31c8_11e4_8948_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:37: ERROR:  "ext_gpload_reusable_ba4e6e80_31c8_11e4_8948_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:38: ERROR:  "ext_gpload_reusable_5450a2e1_305d_11e4_bc48_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:38: ERROR:  "ext_gpload_reusable_5450a2e1_305d_11e4_bc48_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:39: ERROR:  "ext_gpload_reusable_a3023280_2e02_11e4_9851_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:39: ERROR:  "ext_gpload_reusable_a3023280_2e02_11e4_9851_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:40: ERROR:  "ext_gpload_reusable_23cc4bde_7c40_11e4_a0c0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:40: ERROR:  "ext_gpload_reusable_23cc4bde_7c40_11e4_a0c0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:41: ERROR:  "ext_gpload_reusable_15392a4f_4d5e_11e4_994e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:41: ERROR:  "ext_gpload_reusable_15392a4f_4d5e_11e4_994e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:42: ERROR:  "ext_gpload_reusable_c7017411_4640_11e4_ae51_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:42: ERROR:  "ext_gpload_reusable_c7017411_4640_11e4_ae51_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:43: ERROR:  "ext_gpload_reusable_e8ba8c4f_44fa_11e4_a24a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:43: ERROR:  "ext_gpload_reusable_e8ba8c4f_44fa_11e4_a24a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:44: ERROR:  "ext_gpload_reusable_98a4fba1_40cd_11e4_87fc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:44: ERROR:  "ext_gpload_reusable_98a4fba1_40cd_11e4_87fc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:45: ERROR:  "ext_gpload_reusable_170ed780_3e72_11e4_95dc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:45: ERROR:  "ext_gpload_reusable_170ed780_3e72_11e4_95dc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:46: ERROR:  "ext_gpload_reusable_16257800_3bf8_11e4_8f99_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:46: ERROR:  "ext_gpload_reusable_16257800_3bf8_11e4_8f99_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:47: ERROR:  "ext_gpload_reusable_96fe10b0_96b4_11e4_9a71_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:47: ERROR:  "ext_gpload_reusable_96fe10b0_96b4_11e4_9a71_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:48: ERROR:  "ext_gpload_reusable_99aad180_9390_11e4_8a1e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:48: ERROR:  "ext_gpload_reusable_99aad180_9390_11e4_8a1e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:49: ERROR:  "ext_gpload_reusable_9ba9b6e1_91b0_11e4_a9b6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:49: ERROR:  "ext_gpload_reusable_9ba9b6e1_91b0_11e4_a9b6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:50: ERROR:  "ext_gpload_reusable_de47018f_79e3_11e4_967b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:50: ERROR:  "ext_gpload_reusable_de47018f_79e3_11e4_967b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:51: ERROR:  "ext_gpload_reusable_749bce30_0902_11e4_82cf_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:51: ERROR:  "ext_gpload_reusable_749bce30_0902_11e4_82cf_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:52: ERROR:  "ext_gpload_reusable_es914620b3_created_20140116_230527_5428" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:52: ERROR:  "ext_gpload_reusable_es914620b3_created_20140116_230527_5428" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:53: ERROR:  "ext_gpload_reusable_es8fcf6587_created_20140116_230349_6064" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:53: ERROR:  "ext_gpload_reusable_es8fcf6587_created_20140116_230349_6064" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:54: ERROR:  "ext_gpload_reusable_es914620b3_created_20140116_224949_2788" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:54: ERROR:  "ext_gpload_reusable_es914620b3_created_20140116_224949_2788" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:55: ERROR:  "ext_gpload_reusable_es8434b276_created_20140116_224015_6824" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:55: ERROR:  "ext_gpload_reusable_es8434b276_created_20140116_224015_6824" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:56: ERROR:  "ext_gpload_reusable_es8434b276_created_20140116_224333_2968" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:56: ERROR:  "ext_gpload_reusable_es8434b276_created_20140116_224333_2968" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:57: ERROR:  "ext_gpload_reusable_es8fcf6587_created_20140116_224844_5112" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:57: ERROR:  "ext_gpload_reusable_es8fcf6587_created_20140116_224844_5112" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:58: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_222051_5112" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:58: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_222051_5112" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:59: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_222608_6192" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:59: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_222608_6192" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:60: ERROR:  "ext_gpload_reusable_es16eba1ca_created_20140116_223833_4156" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:60: ERROR:  "ext_gpload_reusable_es16eba1ca_created_20140116_223833_4156" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:61: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_220451_2880" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:61: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_220451_2880" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:62: ERROR:  "ext_gpload_reusable_es8f428267_created_20140116_221538_2544" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:62: ERROR:  "ext_gpload_reusable_es8f428267_created_20140116_221538_2544" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:63: ERROR:  "ext_gpload_reusable_esff89c349_created_20140116_060054_6788" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:63: ERROR:  "ext_gpload_reusable_esff89c349_created_20140116_060054_6788" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:64: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140116_060354_3824" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:64: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140116_060354_3824" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:65: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_060605_3696" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:65: ERROR:  "ext_gpload_reusable_es9f28fced_created_20140116_060605_3696" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:66: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140116_060815_6516" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:66: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140116_060815_6516" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:67: ERROR:  "ext_gpload_reusable_esbd0ad568_created_20140116_061143_3392" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:67: ERROR:  "ext_gpload_reusable_esbd0ad568_created_20140116_061143_3392" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:68: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_054112_4316" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:68: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_054112_4316" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:69: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_054756_4092" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:69: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_054756_4092" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:70: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_055426_1396" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:70: ERROR:  "ext_gpload_reusable_es6f362f7f_created_20140116_055426_1396" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:71: ERROR:  "ext_gpload_reusable_ese15fd71f_created_20140116_055805_2272" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:71: ERROR:  "ext_gpload_reusable_ese15fd71f_created_20140116_055805_2272" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:72: ERROR:  "ext_gpload_reusable_esa6b805d9_created_20140116_055929_3064" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:72: ERROR:  "ext_gpload_reusable_esa6b805d9_created_20140116_055929_3064" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:73: ERROR:  "ext_gpload_reusable_es8f428267_created_20140116_053432_5396" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:73: ERROR:  "ext_gpload_reusable_es8f428267_created_20140116_053432_5396" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:74: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_053521_6892" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:74: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_053521_6892" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:75: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_043702_1808" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:75: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_043702_1808" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:76: ERROR:  "ext_gpload_reusable_esd50c10b7_created_20140116_041127_6072" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:76: ERROR:  "ext_gpload_reusable_esd50c10b7_created_20140116_041127_6072" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:77: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_035832_4556" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:77: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140116_035832_4556" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:78: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140115_003009_6036" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:78: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140115_003009_6036" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:79: ERROR:  "ext_gpload_reusable_esff89c349_created_20140114_224221_2008" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:79: ERROR:  "ext_gpload_reusable_esff89c349_created_20140114_224221_2008" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:80: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_224702_5660" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:80: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_224702_5660" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:81: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_224828_4908" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:81: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_224828_4908" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:82: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_225131_5496" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:82: ERROR:  "ext_gpload_reusable_esa4a6b5f0_created_20140114_225131_5496" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:83: ERROR:  "ext_gpload_reusable_esbd0ad568_created_20140114_223237_6984" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:83: ERROR:  "ext_gpload_reusable_esbd0ad568_created_20140114_223237_6984" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:84: ERROR:  "ext_gpload_reusable_ese15fd71f_created_20140114_223600_3108" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:84: ERROR:  "ext_gpload_reusable_ese15fd71f_created_20140114_223600_3108" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:85: ERROR:  "ext_gpload_reusable_esa6b805d9_created_20140114_223734_6880" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:85: ERROR:  "ext_gpload_reusable_esa6b805d9_created_20140114_223734_6880" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:86: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140114_221708_2604" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:86: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140114_221708_2604" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:87: ERROR:  "ext_gpload_reusable_esd50c10b7_created_20140114_222041_5428" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:87: ERROR:  "ext_gpload_reusable_esd50c10b7_created_20140114_222041_5428" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:88: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140113_230513_4108" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:88: ERROR:  "ext_gpload_reusable_es4e6ffaba_created_20140113_230513_4108" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:89: ERROR:  "ext_gpload_reusable_3053f21e_00a1_11e4_a1c1_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:89: ERROR:  "ext_gpload_reusable_3053f21e_00a1_11e4_a1c1_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:90: ERROR:  "ext_gpload_reusable_527414c0_6a73_11e4_a4c3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:90: ERROR:  "ext_gpload_reusable_527414c0_6a73_11e4_a4c3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:91: ERROR:  "ext_gpload_reusable_1ae1fa8f_76d0_11e4_85c0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:91: ERROR:  "ext_gpload_reusable_1ae1fa8f_76d0_11e4_85c0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:92: ERROR:  "ext_gpload_reusable_90193f00_6102_11e4_be6e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:92: ERROR:  "ext_gpload_reusable_90193f00_6102_11e4_be6e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:93: ERROR:  "ext_gpload_reusable_0dd362cf_5c4a_11e4_abf3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:93: ERROR:  "ext_gpload_reusable_0dd362cf_5c4a_11e4_abf3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:94: ERROR:  "ext_gpload_reusable_5cbdb121_8115_11e5_bcbe_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:94: ERROR:  "ext_gpload_reusable_5cbdb121_8115_11e5_bcbe_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:95: ERROR:  "ext_gpload_reusable_2fd6f50f_810e_11e5_ae1f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:95: ERROR:  "ext_gpload_reusable_2fd6f50f_810e_11e5_ae1f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:96: ERROR:  "ext_gpload_reusable_ba85dcb0_8106_11e5_b180_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:96: ERROR:  "ext_gpload_reusable_ba85dcb0_8106_11e5_b180_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:97: ERROR:  "ext_gpload_reusable_f57eb700_6fba_11e4_9bce_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:97: ERROR:  "ext_gpload_reusable_f57eb700_6fba_11e4_9bce_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:98: ERROR:  "ext_gpload_reusable_785c880f_80ee_11e5_b8d3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:98: ERROR:  "ext_gpload_reusable_785c880f_80ee_11e5_b8d3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:99: ERROR:  "ext_gpload_reusable_034b11c0_80dc_11e5_909b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:99: ERROR:  "ext_gpload_reusable_034b11c0_80dc_11e5_909b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:100: ERROR:  "ext_gpload_reusable_ce3f520f_6dd7_11e4_bfa2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:100: ERROR:  "ext_gpload_reusable_ce3f520f_6dd7_11e4_bfa2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:101: ERROR:  "ext_gpload_reusable_5e8fb970_ded3_11e3_9e27_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:101: ERROR:  "ext_gpload_reusable_5e8fb970_ded3_11e3_9e27_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:102: ERROR:  "ext_gpload_reusable_a9163ac0_df9e_11e3_b8b3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:102: ERROR:  "ext_gpload_reusable_a9163ac0_df9e_11e3_b8b3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:103: ERROR:  "ext_gpload_reusable_074befa1_8f20_11e4_92f9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:103: ERROR:  "ext_gpload_reusable_074befa1_8f20_11e4_92f9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:104: ERROR:  "ext_gpload_reusable_f300f08f_8ed9_11e4_97b1_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:104: ERROR:  "ext_gpload_reusable_f300f08f_8ed9_11e4_97b1_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:105: ERROR:  "ext_gpload_reusable_59c823f0_8d56_11e4_ae0d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:105: ERROR:  "ext_gpload_reusable_59c823f0_8d56_11e4_ae0d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:106: ERROR:  "ext_gpload_reusable_a61dd88f_8cc4_11e4_af7c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:106: ERROR:  "ext_gpload_reusable_a61dd88f_8cc4_11e4_af7c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:107: ERROR:  "ext_gpload_reusable_c7c5204f_8aeb_11e4_81f2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:107: ERROR:  "ext_gpload_reusable_c7c5204f_8aeb_11e4_81f2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:108: ERROR:  "ext_gpload_reusable_319190a1_8a69_11e4_a924_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:108: ERROR:  "ext_gpload_reusable_319190a1_8a69_11e4_a924_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:109: ERROR:  "ext_gpload_reusable_52c19ede_87c7_11e4_bcab_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:109: ERROR:  "ext_gpload_reusable_52c19ede_87c7_11e4_bcab_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:110: ERROR:  "ext_gpload_reusable_a8a866de_8628_11e4_96e5_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:110: ERROR:  "ext_gpload_reusable_a8a866de_8628_11e4_96e5_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:111: ERROR:  "ext_gpload_reusable_0962a540_8499_11e4_a091_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:111: ERROR:  "ext_gpload_reusable_0962a540_8499_11e4_a091_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:112: ERROR:  "ext_gpload_reusable_b1827a80_8353_11e4_9d41_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:112: ERROR:  "ext_gpload_reusable_b1827a80_8353_11e4_9d41_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:113: ERROR:  "ext_gpload_reusable_bc03d50f_80f8_11e4_bbdf_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:113: ERROR:  "ext_gpload_reusable_bc03d50f_80f8_11e4_bbdf_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:114: ERROR:  "ext_gpload_reusable_0d875b4f_7e9c_11e4_9dc4_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:114: ERROR:  "ext_gpload_reusable_0d875b4f_7e9c_11e4_9dc4_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:115: ERROR:  "ext_gpload_reusable_53180e8f_7ea4_11e5_8872_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:115: ERROR:  "ext_gpload_reusable_53180e8f_7ea4_11e5_8872_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:116: ERROR:  "ext_gpload_reusable_02b85e30_7de8_11e5_87ec_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:116: ERROR:  "ext_gpload_reusable_02b85e30_7de8_11e5_87ec_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:117: ERROR:  "ext_gpload_reusable_d2dd96cf_7ddd_11e5_b66c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:117: ERROR:  "ext_gpload_reusable_d2dd96cf_7ddd_11e5_b66c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:118: ERROR:  "ext_gpload_reusable_877dac91_7dae_11e5_b0bc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:118: ERROR:  "ext_gpload_reusable_877dac91_7dae_11e5_b0bc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:119: ERROR:  "ext_gpload_reusable_4bf6761e_7da4_11e5_9ab0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:119: ERROR:  "ext_gpload_reusable_4bf6761e_7da4_11e5_9ab0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:120: ERROR:  "ext_gpload_reusable_f4386b2e_7cd3_11e5_ba4d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:120: ERROR:  "ext_gpload_reusable_f4386b2e_7cd3_11e5_ba4d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:121: ERROR:  "ext_gpload_reusable_d47236f0_7c24_11e5_83a4_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:121: ERROR:  "ext_gpload_reusable_d47236f0_7c24_11e5_83a4_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:122: ERROR:  "ext_gpload_reusable_82b32100_7b91_11e5_8dbf_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:122: ERROR:  "ext_gpload_reusable_82b32100_7b91_11e5_8dbf_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:123: ERROR:  "ext_gpload_reusable_6b1b9ed1_7a76_11e5_8b45_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:123: ERROR:  "ext_gpload_reusable_6b1b9ed1_7a76_11e5_8b45_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:124: ERROR:  "ext_gpload_reusable_875dce40_7929_11e5_a0d9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:124: ERROR:  "ext_gpload_reusable_875dce40_7929_11e5_a0d9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:125: ERROR:  "ext_gpload_reusable_f26134ee_78c7_11e5_8b21_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:125: ERROR:  "ext_gpload_reusable_f26134ee_78c7_11e5_8b21_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:126: ERROR:  "ext_gpload_reusable_b1d76330_7775_11e5_ba1a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:126: ERROR:  "ext_gpload_reusable_b1d76330_7775_11e5_ba1a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:127: ERROR:  "ext_gpload_reusable_0a7f564f_715e_11e5_88f0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:127: ERROR:  "ext_gpload_reusable_0a7f564f_715e_11e5_88f0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:128: ERROR:  "ext_gpload_reusable_ed9d1800_6f15_11e5_8600_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:128: ERROR:  "ext_gpload_reusable_ed9d1800_6f15_11e5_8600_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:129: ERROR:  "ext_gpload_reusable_2394b99e_6d0d_11e5_a495_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:129: ERROR:  "ext_gpload_reusable_2394b99e_6d0d_11e5_a495_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:130: ERROR:  "ext_gpload_reusable_bdaaa84f_6cfa_11e5_a484_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:130: ERROR:  "ext_gpload_reusable_bdaaa84f_6cfa_11e5_a484_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:131: ERROR:  "ext_gpload_reusable_db912911_6ad5_11e5_a4cc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:131: ERROR:  "ext_gpload_reusable_db912911_6ad5_11e5_a4cc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:132: ERROR:  "ext_gpload_reusable_f3c0745e_6ab1_11e5_8db9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:132: ERROR:  "ext_gpload_reusable_f3c0745e_6ab1_11e5_8db9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:133: ERROR:  "ext_gpload_reusable_eb57fa30_667f_11e6_82a8_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:133: ERROR:  "ext_gpload_reusable_eb57fa30_667f_11e6_82a8_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:134: ERROR:  "ext_gpload_reusable_00bd45b0_6680_11e6_861c_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:134: ERROR:  "ext_gpload_reusable_00bd45b0_6680_11e6_861c_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:135: ERROR:  "ext_gpload_reusable_73b9eaf0_6680_11e6_90c1_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:135: ERROR:  "ext_gpload_reusable_73b9eaf0_6680_11e6_90c1_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:136: ERROR:  "ext_gpload_reusable_7def9880_6680_11e6_a8d1_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:136: ERROR:  "ext_gpload_reusable_7def9880_6680_11e6_a8d1_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:137: ERROR:  "ext_gpload_reusable_9efbadc0_6680_11e6_ae82_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:137: ERROR:  "ext_gpload_reusable_9efbadc0_6680_11e6_ae82_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:138: ERROR:  "ext_gpload_reusable_a7364ea1_6680_11e6_9723_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:138: ERROR:  "ext_gpload_reusable_a7364ea1_6680_11e6_9723_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:139: ERROR:  "ext_gpload_reusable_b28e78a1_667f_11e6_be9f_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:139: ERROR:  "ext_gpload_reusable_b28e78a1_667f_11e6_be9f_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:140: ERROR:  "ext_gpload_reusable_b8468d51_667f_11e6_9790_005056a45783" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:140: ERROR:  "ext_gpload_reusable_b8468d51_667f_11e6_9790_005056a45783" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:141: ERROR:  "ext_gpload_reusable_660e2130_698f_11e5_801d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:141: ERROR:  "ext_gpload_reusable_660e2130_698f_11e5_801d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:142: ERROR:  "ext_gpload_reusable_f26b3ecf_63c5_11e5_a24e_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:142: ERROR:  "ext_gpload_reusable_f26b3ecf_63c5_11e5_a24e_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:143: ERROR:  "ext_gpload_reusable_0d983f0f_6208_11e5_9d19_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:143: ERROR:  "ext_gpload_reusable_0d983f0f_6208_11e5_9d19_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:144: ERROR:  "ext_gpload_reusable_7872859e_6174_11e5_b764_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:144: ERROR:  "ext_gpload_reusable_7872859e_6174_11e5_b764_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:145: ERROR:  "ext_gpload_reusable_ff4c0b0f_6097_11e5_923b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:145: ERROR:  "ext_gpload_reusable_ff4c0b0f_6097_11e5_923b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:146: ERROR:  "ext_gpload_reusable_404332b0_5d0a_11e5_b480_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:146: ERROR:  "ext_gpload_reusable_404332b0_5d0a_11e5_b480_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:147: ERROR:  "ext_gpload_reusable_11344e4f_5b75_11e5_9fb2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:147: ERROR:  "ext_gpload_reusable_11344e4f_5b75_11e5_9fb2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:148: ERROR:  "ext_gpload_reusable_56dc1580_5983_11e5_b98c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:148: ERROR:  "ext_gpload_reusable_56dc1580_5983_11e5_b98c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:149: ERROR:  "ext_gpload_reusable_4230886e_56e3_11e5_bedd_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:149: ERROR:  "ext_gpload_reusable_4230886e_56e3_11e5_bedd_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:150: ERROR:  "ext_gpload_reusable_fbb8dc21_54b8_11e5_9a85_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:150: ERROR:  "ext_gpload_reusable_fbb8dc21_54b8_11e5_9a85_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:151: ERROR:  "ext_gpload_reusable_c195fc8f_4d9b_11e5_8c9d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:151: ERROR:  "ext_gpload_reusable_c195fc8f_4d9b_11e5_8c9d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:152: ERROR:  "ext_gpload_reusable_3fd0e91e_48e3_11e5_9ba1_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:152: ERROR:  "ext_gpload_reusable_3fd0e91e_48e3_11e5_9ba1_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:153: ERROR:  "ext_gpload_reusable_1cb2e140_265c_11e5_9f6d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:153: ERROR:  "ext_gpload_reusable_1cb2e140_265c_11e5_9f6d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:154: ERROR:  "ext_gpload_reusable_8a2036e1_2659_11e5_84da_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:154: ERROR:  "ext_gpload_reusable_8a2036e1_2659_11e5_84da_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:155: ERROR:  "ext_gpload_reusable_9803ebc0_23fd_11e5_aca3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:155: ERROR:  "ext_gpload_reusable_9803ebc0_23fd_11e5_aca3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:156: ERROR:  "ext_gpload_reusable_283fea30_1f45_11e5_a385_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:156: ERROR:  "ext_gpload_reusable_283fea30_1f45_11e5_a385_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:157: ERROR:  "ext_gpload_reusable_f116dfb0_1d77_11e5_9ea9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:157: ERROR:  "ext_gpload_reusable_f116dfb0_1d77_11e5_9ea9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:158: ERROR:  "ext_gpload_reusable_e361c81e_1710_11e5_8fd0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:158: ERROR:  "ext_gpload_reusable_e361c81e_1710_11e5_8fd0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:159: ERROR:  "ext_gpload_reusable_48a8851e_15d1_11e5_8fa0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:159: ERROR:  "ext_gpload_reusable_48a8851e_15d1_11e5_8fa0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:160: ERROR:  "ext_gpload_reusable_6e36e580_14d1_11e5_bbec_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:160: ERROR:  "ext_gpload_reusable_6e36e580_14d1_11e5_bbec_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:161: ERROR:  "ext_gpload_reusable_88261880_ffe1_11e4_9a7a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:161: ERROR:  "ext_gpload_reusable_88261880_ffe1_11e4_9a7a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:162: ERROR:  "ext_gpload_reusable_f58b888f_efbc_11e4_bf46_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:162: ERROR:  "ext_gpload_reusable_f58b888f_efbc_11e4_bf46_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:163: ERROR:  "ext_gpload_reusable_4309b430_eae4_11e4_9307_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:163: ERROR:  "ext_gpload_reusable_4309b430_eae4_11e4_9307_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:164: ERROR:  "ext_gpload_reusable_26d62870_e8c8_11e4_91f8_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:164: ERROR:  "ext_gpload_reusable_26d62870_e8c8_11e4_91f8_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:165: ERROR:  "ext_gpload_reusable_4d70f640_e8b9_11e4_a7bb_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:165: ERROR:  "ext_gpload_reusable_4d70f640_e8b9_11e4_a7bb_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:166: ERROR:  "ext_gpload_reusable_9c1450b0_e8b1_11e4_9cdb_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:166: ERROR:  "ext_gpload_reusable_9c1450b0_e8b1_11e4_9cdb_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:167: ERROR:  "ext_gpload_reusable_d5d16200_e859_11e4_a138_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:167: ERROR:  "ext_gpload_reusable_d5d16200_e859_11e4_a138_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:168: ERROR:  "ext_gpload_reusable_f121f0e1_e83d_11e4_ae28_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:168: ERROR:  "ext_gpload_reusable_f121f0e1_e83d_11e4_ae28_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:169: ERROR:  "ext_gpload_reusable_3971ce0f_e843_11e4_81a1_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:169: ERROR:  "ext_gpload_reusable_3971ce0f_e843_11e4_81a1_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:170: ERROR:  "ext_gpload_reusable_e8c01dee_e806_11e4_935f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:170: ERROR:  "ext_gpload_reusable_e8c01dee_e806_11e4_935f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:171: ERROR:  "ext_gpload_reusable_205fb740_e6cf_11e4_a3e6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:171: ERROR:  "ext_gpload_reusable_205fb740_e6cf_11e4_a3e6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:172: ERROR:  "ext_gpload_reusable_55ae6aee_e6c4_11e4_be64_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:172: ERROR:  "ext_gpload_reusable_55ae6aee_e6c4_11e4_be64_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:173: ERROR:  "ext_gpload_reusable_dcffe5a1_e68e_11e4_b527_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:173: ERROR:  "ext_gpload_reusable_dcffe5a1_e68e_11e4_b527_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:174: ERROR:  "ext_gpload_reusable_9594de8f_e4e6_11e4_8c84_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:174: ERROR:  "ext_gpload_reusable_9594de8f_e4e6_11e4_8c84_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:175: ERROR:  "ext_gpload_reusable_be8d2030_e4de_11e4_8c4d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:175: ERROR:  "ext_gpload_reusable_be8d2030_e4de_11e4_8c4d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:176: ERROR:  "ext_gpload_reusable_babb3670_e477_11e4_af48_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:176: ERROR:  "ext_gpload_reusable_babb3670_e477_11e4_af48_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:177: ERROR:  "ext_gpload_reusable_c0200861_e432_11e4_914b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:177: ERROR:  "ext_gpload_reusable_c0200861_e432_11e4_914b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:178: ERROR:  "ext_gpload_reusable_30a9c9f0_e414_11e4_8369_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:178: ERROR:  "ext_gpload_reusable_30a9c9f0_e414_11e4_8369_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:179: ERROR:  "ext_gpload_reusable_9b8df18f_e3ee_11e4_8796_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:179: ERROR:  "ext_gpload_reusable_9b8df18f_e3ee_11e4_8796_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:180: ERROR:  "ext_gpload_reusable_c2386db0_e359_11e4_8098_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:180: ERROR:  "ext_gpload_reusable_c2386db0_e359_11e4_8098_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:181: ERROR:  "ext_gpload_reusable_43bdfa00_e2d6_11e4_bdbe_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:181: ERROR:  "ext_gpload_reusable_43bdfa00_e2d6_11e4_bdbe_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:182: ERROR:  "ext_gpload_reusable_bf24cd9e_e0ff_11e4_b4d5_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:182: ERROR:  "ext_gpload_reusable_bf24cd9e_e0ff_11e4_b4d5_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:183: ERROR:  "ext_gpload_reusable_55e333b0_e07b_11e4_9b07_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:183: ERROR:  "ext_gpload_reusable_55e333b0_e07b_11e4_9b07_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:184: ERROR:  "ext_gpload_reusable_23e0d200_e01c_11e4_948c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:184: ERROR:  "ext_gpload_reusable_23e0d200_e01c_11e4_948c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:185: ERROR:  "ext_gpload_reusable_eeaf8440_dfcc_11e4_90a7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:185: ERROR:  "ext_gpload_reusable_eeaf8440_dfcc_11e4_90a7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:186: ERROR:  "ext_gpload_reusable_acf18221_df94_11e4_b7a9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:186: ERROR:  "ext_gpload_reusable_acf18221_df94_11e4_b7a9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:187: ERROR:  "ext_gpload_reusable_1ae57cf0_de1e_11e4_bd27_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:187: ERROR:  "ext_gpload_reusable_1ae57cf0_de1e_11e4_bd27_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:188: ERROR:  "ext_gpload_reusable_84af7a6e_ddd6_11e4_ba7f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:188: ERROR:  "ext_gpload_reusable_84af7a6e_ddd6_11e4_ba7f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:189: ERROR:  "ext_gpload_reusable_601c8200_ddce_11e4_9aea_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:189: ERROR:  "ext_gpload_reusable_601c8200_ddce_11e4_9aea_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:190: ERROR:  "ext_gpload_reusable_5e3478ee_dbdd_11e4_9c09_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:190: ERROR:  "ext_gpload_reusable_5e3478ee_dbdd_11e4_9c09_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:191: ERROR:  "ext_gpload_reusable_1baa2cd1_da4a_11e4_8f74_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:191: ERROR:  "ext_gpload_reusable_1baa2cd1_da4a_11e4_8f74_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:192: ERROR:  "ext_gpload_reusable_7426f7a1_d91c_11e4_b5bd_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:192: ERROR:  "ext_gpload_reusable_7426f7a1_d91c_11e4_b5bd_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:193: ERROR:  "ext_gpload_reusable_22bfe81e_d90a_11e4_b37b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:193: ERROR:  "ext_gpload_reusable_22bfe81e_d90a_11e4_b37b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:194: ERROR:  "ext_gpload_reusable_28004bae_d8d1_11e4_89b2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:194: ERROR:  "ext_gpload_reusable_28004bae_d8d1_11e4_89b2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:195: ERROR:  "ext_gpload_reusable_5b53d95e_d8cb_11e4_b585_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:195: ERROR:  "ext_gpload_reusable_5b53d95e_d8cb_11e4_b585_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:196: ERROR:  "ext_gpload_reusable_a56632a1_d8c6_11e4_a7b6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:196: ERROR:  "ext_gpload_reusable_a56632a1_d8c6_11e4_a7b6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:197: ERROR:  "ext_gpload_reusable_aff9d2f0_d8ab_11e4_8310_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:197: ERROR:  "ext_gpload_reusable_aff9d2f0_d8ab_11e4_8310_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:198: ERROR:  "ext_gpload_reusable_0c30f9de_d87f_11e4_8e80_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:198: ERROR:  "ext_gpload_reusable_0c30f9de_d87f_11e4_8e80_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:199: ERROR:  "ext_gpload_reusable_bbc272cf_d87a_11e4_81fb_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:199: ERROR:  "ext_gpload_reusable_bbc272cf_d87a_11e4_81fb_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:200: ERROR:  "ext_gpload_reusable_b51e071e_d81e_11e4_bcbe_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:200: ERROR:  "ext_gpload_reusable_b51e071e_d81e_11e4_bcbe_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:201: ERROR:  "ext_gpload_reusable_01510fc0_d815_11e4_be48_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:201: ERROR:  "ext_gpload_reusable_01510fc0_d815_11e4_be48_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:202: ERROR:  "ext_gpload_reusable_b0162b40_d800_11e4_bf3f_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:202: ERROR:  "ext_gpload_reusable_b0162b40_d800_11e4_bf3f_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:203: ERROR:  "ext_gpload_reusable_73be85de_d77c_11e4_bbb6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:203: ERROR:  "ext_gpload_reusable_73be85de_d77c_11e4_bbb6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:204: ERROR:  "ext_gpload_reusable_43c041ae_d756_11e4_b4e0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:204: ERROR:  "ext_gpload_reusable_43c041ae_d756_11e4_b4e0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:205: ERROR:  "ext_gpload_reusable_c59a24a1_d687_11e4_b3d7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:205: ERROR:  "ext_gpload_reusable_c59a24a1_d687_11e4_b3d7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:206: ERROR:  "ext_gpload_reusable_156b2840_d641_11e4_ac50_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:206: ERROR:  "ext_gpload_reusable_156b2840_d641_11e4_ac50_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:207: ERROR:  "ext_gpload_reusable_3f67b74f_d635_11e4_b767_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:207: ERROR:  "ext_gpload_reusable_3f67b74f_d635_11e4_b767_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:208: ERROR:  "ext_gpload_reusable_c3096e40_d5f0_11e4_be60_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:208: ERROR:  "ext_gpload_reusable_c3096e40_d5f0_11e4_be60_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:209: ERROR:  "ext_gpload_reusable_7aec4f00_d529_11e4_994b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:209: ERROR:  "ext_gpload_reusable_7aec4f00_d529_11e4_994b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:210: ERROR:  "ext_gpload_reusable_3947c3c0_d4ae_11e4_a8fa_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:210: ERROR:  "ext_gpload_reusable_3947c3c0_d4ae_11e4_a8fa_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:211: ERROR:  "ext_gpload_reusable_3d8a005e_d3f5_11e4_91bd_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:211: ERROR:  "ext_gpload_reusable_3d8a005e_d3f5_11e4_91bd_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:212: ERROR:  "ext_gpload_reusable_cbc746ae_d370_11e4_becf_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:212: ERROR:  "ext_gpload_reusable_cbc746ae_d370_11e4_becf_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:213: ERROR:  "ext_gpload_reusable_feec3d8f_d35a_11e4_bbe7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:213: ERROR:  "ext_gpload_reusable_feec3d8f_d35a_11e4_bbe7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:214: ERROR:  "ext_gpload_reusable_3b7e1b91_d2c8_11e4_9e59_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:214: ERROR:  "ext_gpload_reusable_3b7e1b91_d2c8_11e4_9e59_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:215: ERROR:  "ext_gpload_reusable_625a7ab0_d2c3_11e4_90c2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:215: ERROR:  "ext_gpload_reusable_625a7ab0_d2c3_11e4_90c2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:216: ERROR:  "ext_gpload_reusable_23ef7880_d2a9_11e4_8102_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:216: ERROR:  "ext_gpload_reusable_23ef7880_d2a9_11e4_8102_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:217: ERROR:  "ext_gpload_reusable_49793ec0_d28a_11e4_a7c0_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:217: ERROR:  "ext_gpload_reusable_49793ec0_d28a_11e4_a7c0_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:218: ERROR:  "ext_gpload_reusable_8ebb858f_d115_11e4_8075_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:218: ERROR:  "ext_gpload_reusable_8ebb858f_d115_11e4_8075_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:219: ERROR:  "ext_gpload_reusable_59316580_d02e_11e4_9c80_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:219: ERROR:  "ext_gpload_reusable_59316580_d02e_11e4_9c80_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:220: ERROR:  "ext_gpload_reusable_ea6c49e1_cff5_11e4_9bff_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:220: ERROR:  "ext_gpload_reusable_ea6c49e1_cff5_11e4_9bff_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:221: ERROR:  "ext_gpload_reusable_92e504a1_ce9c_11e4_8e98_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:221: ERROR:  "ext_gpload_reusable_92e504a1_ce9c_11e4_8e98_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:222: ERROR:  "ext_gpload_reusable_4c783e5e_cdde_11e4_ad85_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:222: ERROR:  "ext_gpload_reusable_4c783e5e_cdde_11e4_ad85_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:223: ERROR:  "ext_gpload_reusable_e2c97f8f_cb3c_11e4_9d66_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:223: ERROR:  "ext_gpload_reusable_e2c97f8f_cb3c_11e4_9d66_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:224: ERROR:  "ext_gpload_reusable_a957cecf_ca86_11e4_b68d_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:224: ERROR:  "ext_gpload_reusable_a957cecf_ca86_11e4_b68d_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:225: ERROR:  "ext_gpload_reusable_f095e880_ca78_11e4_b445_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:225: ERROR:  "ext_gpload_reusable_f095e880_ca78_11e4_b445_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:226: ERROR:  "ext_gpload_reusable_36918e2e_ca0a_11e4_a8b3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:226: ERROR:  "ext_gpload_reusable_36918e2e_ca0a_11e4_a8b3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:227: ERROR:  "ext_gpload_reusable_d099d500_c9ba_11e4_a235_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:227: ERROR:  "ext_gpload_reusable_d099d500_c9ba_11e4_a235_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:228: ERROR:  "ext_gpload_reusable_27dd6bcf_c685_11e4_8cd6_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:228: ERROR:  "ext_gpload_reusable_27dd6bcf_c685_11e4_8cd6_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:229: ERROR:  "ext_gpload_reusable_ef4d02de_c598_11e4_bdf8_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:229: ERROR:  "ext_gpload_reusable_ef4d02de_c598_11e4_bdf8_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:230: ERROR:  "ext_gpload_reusable_ec06dc1e_c375_11e4_8818_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:230: ERROR:  "ext_gpload_reusable_ec06dc1e_c375_11e4_8818_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:231: ERROR:  "ext_gpload_reusable_25ba4230_c2aa_11e4_971c_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:231: ERROR:  "ext_gpload_reusable_25ba4230_c2aa_11e4_971c_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:232: ERROR:  "ext_gpload_reusable_bbd38180_c1cb_11e4_aad7_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:232: ERROR:  "ext_gpload_reusable_bbd38180_c1cb_11e4_aad7_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:233: ERROR:  "ext_gpload_reusable_409c6cc0_bffa_11e4_9135_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:233: ERROR:  "ext_gpload_reusable_409c6cc0_bffa_11e4_9135_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:234: ERROR:  "ext_gpload_reusable_89945e51_bf92_11e4_b2fa_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:234: ERROR:  "ext_gpload_reusable_89945e51_bf92_11e4_b2fa_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:235: ERROR:  "ext_gpload_reusable_5ad3981e_be38_11e4_9bcc_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:235: ERROR:  "ext_gpload_reusable_5ad3981e_be38_11e4_9bcc_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:236: ERROR:  "ext_gpload_reusable_ad730991_bde7_11e4_8f3a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:236: ERROR:  "ext_gpload_reusable_ad730991_bde7_11e4_8f3a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:237: ERROR:  "ext_gpload_reusable_5d290780_bc90_11e4_a997_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:237: ERROR:  "ext_gpload_reusable_5d290780_bc90_11e4_a997_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:238: ERROR:  "ext_gpload_reusable_c5129861_bb9c_11e4_80f3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:238: ERROR:  "ext_gpload_reusable_c5129861_bb9c_11e4_80f3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:239: ERROR:  "ext_gpload_reusable_0d239a9e_bb5c_11e4_8fdf_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:239: ERROR:  "ext_gpload_reusable_0d239a9e_bb5c_11e4_8fdf_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:240: ERROR:  "ext_gpload_reusable_2cca364f_ba05_11e4_9382_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:240: ERROR:  "ext_gpload_reusable_2cca364f_ba05_11e4_9382_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:241: ERROR:  "ext_gpload_reusable_79d556cf_b9f8_11e4_8e90_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:241: ERROR:  "ext_gpload_reusable_79d556cf_b9f8_11e4_8e90_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:242: ERROR:  "ext_gpload_reusable_d879184f_b9c8_11e4_8fc9_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:242: ERROR:  "ext_gpload_reusable_d879184f_b9c8_11e4_8fc9_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:243: ERROR:  "ext_gpload_reusable_371970b0_b994_11e4_85b3_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:243: ERROR:  "ext_gpload_reusable_371970b0_b994_11e4_85b3_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:244: ERROR:  "ext_gpload_reusable_6bfbb51e_b6a3_11e4_aef2_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:244: ERROR:  "ext_gpload_reusable_6bfbb51e_b6a3_11e4_aef2_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:245: ERROR:  "ext_gpload_reusable_946707c0_b695_11e4_8a2a_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:245: ERROR:  "ext_gpload_reusable_946707c0_b695_11e4_8a2a_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:246: ERROR:  "ext_gpload_reusable_ba319740_b618_11e4_8c68_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:246: ERROR:  "ext_gpload_reusable_ba319740_b618_11e4_8c68_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:247: ERROR:  "ext_gpload_reusable_5b34d06e_b2ff_11e4_831b_005056a457bd" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:247: ERROR:  "ext_gpload_reusable_5b34d06e_b2ff_11e4_831b_005056a457bd" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:248: ERROR:  "ext_gpload_reusable_5370d921_3881_11e6_b121_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:248: ERROR:  "ext_gpload_reusable_5370d921_3881_11e6_b121_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:249: ERROR:  "ext_gpload_reusable_30f3809e_3881_11e6_a91b_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:249: ERROR:  "ext_gpload_reusable_30f3809e_3881_11e6_a91b_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:250: ERROR:  "ext_gpload_reusable_34d8f82e_3881_11e6_9e9d_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:250: ERROR:  "ext_gpload_reusable_34d8f82e_3881_11e6_9e9d_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:251: ERROR:  "ext_gpload_reusable_5884c430_37f5_11e6_a4a6_005056be65d5" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:251: ERROR:  "ext_gpload_reusable_5884c430_37f5_11e6_a4a6_005056be65d5" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:252: ERROR:  "ext_gpload_reusable_e9dce0de_3735_11e6_86d3_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:252: ERROR:  "ext_gpload_reusable_e9dce0de_3735_11e6_86d3_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:253: ERROR:  "ext_gpload_reusable_27d6a980_3736_11e6_bd42_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:253: ERROR:  "ext_gpload_reusable_27d6a980_3736_11e6_bd42_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:254: ERROR:  "ext_gpload_reusable_02141ba1_3737_11e6_8a3b_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:254: ERROR:  "ext_gpload_reusable_02141ba1_3737_11e6_8a3b_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:255: ERROR:  "ext_gpload_reusable_c6306921_3733_11e6_8643_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:255: ERROR:  "ext_gpload_reusable_c6306921_3733_11e6_8643_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:256: ERROR:  "ext_gpload_reusable_d47fe4ae_3733_11e6_bc9d_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:256: ERROR:  "ext_gpload_reusable_d47fe4ae_3733_11e6_bc9d_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:257: ERROR:  "ext_gpload_reusable_e82aaef0_3733_11e6_b1c4_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:257: ERROR:  "ext_gpload_reusable_e82aaef0_3733_11e6_b1c4_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:258: ERROR:  "ext_gpload_reusable_047ff2e1_3734_11e6_afbc_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:258: ERROR:  "ext_gpload_reusable_047ff2e1_3734_11e6_afbc_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:259: ERROR:  "ext_gpload_reusable_5f784ab0_3727_11e6_9c5d_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:259: ERROR:  "ext_gpload_reusable_5f784ab0_3727_11e6_9c5d_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:260: ERROR:  "ext_gpload_reusable_717da24f_3727_11e6_8654_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:260: ERROR:  "ext_gpload_reusable_717da24f_3727_11e6_8654_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:261: ERROR:  "ext_gpload_reusable_9f9345a1_3727_11e6_95ae_005056be660e" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:261: ERROR:  "ext_gpload_reusable_9f9345a1_3727_11e6_95ae_005056be660e" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:262: ERROR:  "ext_gpload_reusable_b7a7050f_9ca6_11e7_9525_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:262: ERROR:  "ext_gpload_reusable_b7a7050f_9ca6_11e7_9525_005056a42996" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:263: ERROR:  "ext_gpload_reusable_c5418880_9ca6_11e7_bdc5_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:263: ERROR:  "ext_gpload_reusable_c5418880_9ca6_11e7_bdc5_005056a42996" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:264: ERROR:  "ext_gpload_reusable_8368c75e_98c9_11e7_857c_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:264: ERROR:  "ext_gpload_reusable_8368c75e_98c9_11e7_857c_005056a42996" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:265: ERROR:  "ext_gpload_reusable_856fbaf0_98c9_11e7_bee6_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:265: ERROR:  "ext_gpload_reusable_856fbaf0_98c9_11e7_bee6_005056a42996" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:266: ERROR:  "ext_gpload_reusable_85a1c770_98c9_11e7_9ed0_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:266: ERROR:  "ext_gpload_reusable_85a1c770_98c9_11e7_9ed0_005056a42996" is not a base table
+HINT:  Use DROP EXTERNAL TABLE to remove an external table psql:/home/gpadmin/Maintenancescripts/drop.sql:267: ERROR:  "ext_gpload_reusable_8afcef0f_98c9_11e7_8273_005056a42996" is not a base table 
+:/home/gpadmin/Maintenancescripts/drop.sql:267: ERROR:  "ext_gpload_reusable_8afcef0f_98c9_11e7_8273_005056a42996" is not a base table
+-- Time: 125.885 ms psql:/home/gpadmin/Maintenancescripts/drop.sql:869: ERROR:  syntax error at or near "865" 
+:/home/gpadmin/Maintenancescripts/drop.sql:869: ERROR:  syntax error at or near "865"

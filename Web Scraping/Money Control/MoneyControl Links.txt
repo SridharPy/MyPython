@@ -1,0 +1,1948 @@
+Money Control Stocks List:
+
+http://www.moneycontrol.com/india/stockpricequote/
+
+
+
+
+
+
+Complete Stock List Links Table:
+
+<table width="100%" border="0" cellspacing="0" class="pcq_tbl MT10">
+				<colgroup><col style="width:33.33%">
+				<col style="width:33.33%">
+				<col>
+				</colgroup><tbody><tr><th colspan="3" class="b_12"><strong>Company Name</strong></th></tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/3mindia/MI42" title="3M India" class="bl_12">3M India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/8kmilessoftwareservices/PMS01" title="8K Miles Soft" class="bl_12">8K Miles Soft</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/aartiindustries/AI45" title="Aarti Ind" class="bl_12">Aarti Ind</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/abanoffshore/AO04" title="Aban Offshore" class="bl_12">Aban Offshore</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/abbindia/ABB" title="ABB India" class="bl_12">ABB India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/abbottindia/AI51" title="Abbott India" class="bl_12">Abbott India</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/acc/ACC06" title="ACC" class="bl_12">ACC</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13" title="Adani Enterpris" class="bl_12">Adani Enterpris</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/adaniportsspecialeconomiczone/MPS" title="Adani Ports" class="bl_12">Adani Ports</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/adanipower/AP11" title="Adani Power" class="bl_12">Adani Power</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powertransmissionequipment/adanitransmission/AT22" title="Adani Trans" class="bl_12">Adani Trans</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/adityabirlafashionretail/PFR" title="Aditya Birla F" class="bl_12">Aditya Birla F</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/advancedenzymetechnologies/AET" title="Advanced Enzyme" class="bl_12">Advanced Enzyme</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/aegislogistics/AL9" title="Aegis Logistics" class="bl_12">Aegis Logistics</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/castingsforgings/aiaengineering/AIE01" title="AIA Engineering" class="bl_12">AIA Engineering</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/ajantapharma/AP22" title="Ajanta Pharma" class="bl_12">Ajanta Pharma</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/paintsvarnishes/akzonobelindia/ICI" title="Akzo Nobel" class="bl_12">Akzo Nobel</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alembicpharmaceuticals/AP35" title="Alembic Pharma" class="bl_12">Alembic Pharma</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/alkemlaboratories/AL05" title="Alkem Lab" class="bl_12">Alkem Lab</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/allahabadbank/AB15" title="Allahabad Bank" class="bl_12">Allahabad Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/allcargologistics/AGL02" title="Allcargo" class="bl_12">Allcargo</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/amararajabatteries/ARB" title="Amara Raja Batt" class="bl_12">Amara Raja Batt</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/ambujacements/AC18" title="Ambuja Cements" class="bl_12">Ambuja Cements</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/andhrabank/AB14" title="Andhra Bank" class="bl_12">Andhra Bank</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/aparindustries/AI40" title="Apar Ind" class="bl_12">Apar Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steeltubespipes/aplapollotubes/BT09" title="APL Apollo" class="bl_12">APL Apollo</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hospitalsmedicalservices/apollohospitalsenterprises/AHE" title="Apollo Hospital" class="bl_12">Apollo Hospital</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/apollotyres/AT14" title="Apollo Tyres" class="bl_12">Apollo Tyres</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesdenim/arvind/A18" title="Arvind" class="bl_12">Arvind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/glassglassproducts/asahiindiaglass/AIG01" title="Asahi India" class="bl_12">Asahi India</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/ashokleyland/AL" title="Ashok Leyland" class="bl_12">Ashok Leyland</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/ashokabuildcon/AB" title="Ashoka Buildcon" class="bl_12">Ashoka Buildcon</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/paintsvarnishes/asianpaints/AP31" title="Asian Paints" class="bl_12">Asian Paints</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsequipment/astramicrowaveproducts/AMP01" title="Astra Microwave" class="bl_12">Astra Microwave</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plastics/astralpolytechnik/APT02" title="Astral Poly Tec" class="bl_12">Astral Poly Tec</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/astrazenecapharma/AZP" title="AstraZeneca" class="bl_12">AstraZeneca</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/dyespigments/atul/A06" title="Atul" class="bl_12">Atul</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/aurobindopharma/AP" title="Aurobindo Pharm" class="bl_12">Aurobindo Pharm</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/aquaculture/avantifeeds/AF21" title="Avanti Feeds" class="bl_12">Avanti Feeds</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19" title="Avenue Supermar" class="bl_12">Avenue Supermar</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/axisbank/AB16" title="Axis Bank" class="bl_12">Axis Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/auto23wheelers/bajajauto/BA10" title="Bajaj Auto" class="bl_12">Bajaj Auto</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/bajajcorp/BC02" title="Bajaj Corp" class="bl_12">Bajaj Corp</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/domesticappliances/bajajelectricals/BE" title="Bajaj Electric" class="bl_12">Bajaj Electric</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/bajajfinance/BAF" title="Bajaj Finance" class="bl_12">Bajaj Finance</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/bajajfinserv/BF04" title="Bajaj Finserv" class="bl_12">Bajaj Finserv</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/sugar/bajajhindusthan/BH06" title="Bajaj Hind" class="bl_12">Bajaj Hind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/bajajholdingsinvestment/BHI" title="Bajaj Holdings" class="bl_12">Bajaj Holdings</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/balkrishnaindustries/BI03" title="Balkrishna Ind" class="bl_12">Balkrishna Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/balmerlawriecompany/BLC" title="Balmer Lawrie" class="bl_12">Balmer Lawrie</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/sugar/balrampurchinimills/BCM" title="Balrampur Chini" class="bl_12">Balrampur Chini</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/bankofbaroda/BOB" title="Bank of Baroda" class="bl_12">Bank of Baroda</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/bankofindia/BOI" title="Bank of India" class="bl_12">Bank of India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/bankmaharashtra/BM05" title="Bank of Mah" class="bl_12">Bank of Mah</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/basfindia/BAS" title="BASF" class="bl_12">BASF</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/leatherproducts/bataindia/BI01" title="Bata India" class="bl_12">Bata India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/bayercropscience/BC12" title="Bayer CropScien" class="bl_12">Bayer CropScien</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/beml/BEM03" title="BEML" class="bl_12">BEML</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/paintsvarnishes/bergerpaintsindia/BPI02" title="Berger Paints" class="bl_12">Berger Paints</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/bfutilities/BFU" title="BF Utilities" class="bl_12">BF Utilities</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricals/bharatelectronics/BE03" title="Bharat Elec" class="bl_12">Bharat Elec</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/bharatfinancialinclusion/SM11" title="Bharat Fin" class="bl_12">Bharat Fin</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/castingsforgings/bharatforge/BF03" title="Bharat Forge" class="bl_12">Bharat Forge</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/bhartiairtel/BA08" title="Bharti Airtel" class="bl_12">Bharti Airtel</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsequipment/bhartiinfratel/BI14" title="Bharti Infratel" class="bl_12">Bharti Infratel</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/bharatheavyelectricals/BHE" title="BHEL" class="bl_12">BHEL</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/biocon/BL03" title="Biocon" class="bl_12">Biocon</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/birlacorporation/BC07" title="Birla Corp" class="bl_12">Birla Corp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/blissgvspharma/BGV" title="Bliss GVS" class="bl_12">Bliss GVS</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/couriers/bluedartexpress/BDE" title="Blue Dart" class="bl_12">Blue Dart</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/consumergoodswhitegoods/bluestar/BS" title="Blue Star" class="bl_12">Blue Star</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/bombayburmahtradingcorporation/BBT" title="Bombay Burmah" class="bl_12">Bombay Burmah</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesprocessing/bombaydyeingmanufacturingcompany/BDM" title="Bombay Dyeing" class="bl_12">Bombay Dyeing</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/bosch/B05" title="Bosch" class="bl_12">Bosch</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC" title="BPCL" class="bl_12">BPCL</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/britanniaindustries/BI" title="Britannia" class="bl_12">Britannia</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC" title="Cadila Health" class="bl_12">Cadila Health</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/canfinhomes/CFH" title="Can Fin Homes" class="bl_12">Can Fin Homes</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/canarabank/CB06" title="Canara Bank" class="bl_12">Canara Bank</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/capitalfirst/FCH" title="Capital First" class="bl_12">Capital First</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/caplinpointlaboratories/CPL" title="Caplin Labs" class="bl_12">Caplin Labs</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/abrasives/carborundumuniversal/CU" title="Carborundum" class="bl_12">Carborundum</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/creditanalysisresearch/CAR" title="CARE" class="bl_12">CARE</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/lubricants/castrolindia/CI01" title="Castrol" class="bl_12">Castrol</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/cclproductsindia/CC10" title="CCL Products" class="bl_12">CCL Products</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/ceat/C07" title="Ceat" class="bl_12">Ceat</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/centralbankindia/CBO01" title="Central Bank" class="bl_12">Central Bank</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/centurytextilesindustries/CTI" title="Century" class="bl_12">Century</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/centuryplyboards/CP9" title="CenturyPlyboard" class="bl_12">CenturyPlyboard</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/ceramicsgranite/cerasanitaryware/CS18" title="Cera Sanitary" class="bl_12">Cera Sanitary</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/cesc/CES" title="CESC" class="bl_12">CESC</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricals/cromptongreavesconsumerelectrical/CGC01" title="CG Consumer" class="bl_12">CG Consumer</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/cgpowerindustrialsolutions/CG" title="CG Power" class="bl_12">CG Power</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/chambalfertiliserschemicals/CFC" title="Chambal Fert" class="bl_12">Chambal Fert</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/chennaipetroleumcorporation/CPC02" title="Chennai Petro" class="bl_12">Chennai Petro</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/cholamandalaminvestmentfinancecompany/CDB" title="Cholamandalam" class="bl_12">Cholamandalam</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/cipla/C" title="Cipla" class="bl_12">Cipla</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/cityunionbank/CUB" title="City Union Bank" class="bl_12">City Union Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miningminerals/coalindia/CI11" title="Coal India" class="bl_12">Coal India</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/coffeedayenterprises/CDE" title="Coffee Day" class="bl_12">Coffee Day</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/colgatepalmoliveindia/CPI" title="Colgate" class="bl_12">Colgate</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/containercorporationindia/CCI" title="Container Corp" class="bl_12">Container Corp</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/coromandelinternational/CI45" title="Coromandel Int" class="bl_12">Coromandel Int</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/corporationbank/CB" title="Corporation Bk" class="bl_12">Corporation Bk</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/coxkings/CK" title="Cox &amp; Kings" class="bl_12">Cox &amp; Kings</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/crisil/CRI" title="CRISIL" class="bl_12">CRISIL</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/engines/cumminsindia/CI02" title="Cummins" class="bl_12">Cummins</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/cyient/IE07" title="Cyient" class="bl_12">Cyient</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/daburindia/DI" title="Dabur India" class="bl_12">Dabur India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/dalmiabharat/DBE" title="Dalmia Bharat" class="bl_12">Dalmia Bharat</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/dbcorp/C13" title="DB Corp" class="bl_12">DB Corp</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/dcbbank/DCB01" title="DCB Bank" class="bl_12">DCB Bank</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/dcmshriram/DCM02" title="DCM Shriram" class="bl_12">DCM Shriram</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/deepakfertilizerspetrochemicalscoprn/DFP" title="Deepak Fert" class="bl_12">Deepak Fert</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/deltacorp/DC11" title="Delta Corp" class="bl_12">Delta Corp</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/dennetworks/DN02" title="Den Networks" class="bl_12">Den Networks</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/denabank/DB" title="Dena Bank" class="bl_12">Dena Bank</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/dewanhousingfinancecorporation/DHF" title="Dewan Housing" class="bl_12">Dewan Housing</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/dhanukaagritech/DA01" title="Dhanuka Agritec" class="bl_12">Dhanuka Agritec</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/dilipbuildcon/DB04" title="Dilip Buildcon" class="bl_12">Dilip Buildcon</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/dishtvindia/DTV" title="Dish TV" class="bl_12">Dish TV</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/divislaboratories/DL03" title="Divis Labs" class="bl_12">Divis Labs</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/dlf/D04" title="DLF" class="bl_12">DLF</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drlalpathlabs/DLP01" title="Dr Lal PathLab" class="bl_12">Dr Lal PathLab</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL" title="Dr Reddys Labs" class="bl_12">Dr Reddys Labs</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/eclerxservices/eS06" title="eClerx Services" class="bl_12">eClerx Services</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/edelweissfinancialservices/EC01" title="Edelweiss" class="bl_12">Edelweiss</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/eichermotors/EM" title="Eicher Motors" class="bl_12">Eicher Motors</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/sugar/eidparryindia/EID" title="EID Parry" class="bl_12">EID Parry</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hotels/eih/EIH" title="EIH" class="bl_12">EIH</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/compressors/elgiequipments/EE01" title="Elgi Equipments" class="bl_12">Elgi Equipments</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/emami/E06" title="Emami" class="bl_12">Emami</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/auto23wheelers/endurancetechnologies/ET01" title="Endurance Techn" class="bl_12">Endurance Techn</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/engineersindia/EI14" title="EngineersInd" class="bl_12">EngineersInd</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/entertainmentnetworkindia/ENI" title="Ent Network Ind" class="bl_12">Ent Network Ind</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/equitasholdings/EH03" title="Equitas Holding" class="bl_12">Equitas Holding</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/erosinternationalmedia/EIM" title="Eros Intl" class="bl_12">Eros Intl</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autotractors/escorts/E" title="Escorts" class="bl_12">Escorts</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/packaging/esselpropack/EP11" title="Essel Propack" class="bl_12">Essel Propack</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/drycells/evereadyindustriesindia/EII02" title="Eveready Ind" class="bl_12">Eveready Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/exideindustries/EI" title="Exide Ind" class="bl_12">Exide Ind</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/fdc/FDC" title="FDC" class="bl_12">FDC</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/federalbank/FB" title="Federal Bank" class="bl_12">Federal Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cablestelephone/finolexcables/FC01" title="Finolex Cables" class="bl_12">Finolex Cables</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/petrochemicals/finolexindustries/FI" title="Finolex Ind" class="bl_12">Finolex Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/firstsourcesolutions/FS07" title="Firstsource Sol" class="bl_12">Firstsource Sol</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/forcemotors/FM01" title="Force Motors" class="bl_12">Force Motors</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hospitalsmedicalservices/fortishealthcare/FH" title="Fortis Health" class="bl_12">Fortis Health</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/futureconsumer/FVI" title="Future Consumer" class="bl_12">Future Consumer</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/futurelifestylefashions/FLF01" title="Future Life" class="bl_12">Future Life</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/futureretail/FR" title="Future Retail" class="bl_12">Future Retail</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/gailindia/GAI" title="GAIL" class="bl_12">GAIL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/gatewaydistriparks/GD01" title="Gateway Distri" class="bl_12">Gateway Distri</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/couriers/gati/G04" title="Gati" class="bl_12">Gati</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/gayatriprojects/GP10" title="Gayatri Project" class="bl_12">Gayatri Project</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powertransmissionequipment/gepowerindia/AP29" title="GE Power India" class="bl_12">GE Power India</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/shipping/greateasternshippingcompany/GES" title="GE Shipping" class="bl_12">GE Shipping</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powertransmissionequipment/getdindia/ATD" title="GE T&amp;D India" class="bl_12">GE T&amp;D India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/gichousingfinance/GIC" title="GIC Housing Fin" class="bl_12">GIC Housing Fin</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/gilletteindia/GI22" title="Gillette India" class="bl_12">Gillette India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/glaxosmithklineconsumerhealthcare/GSC04" title="GlaxoSmith Con" class="bl_12">GlaxoSmith Con</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/glaxosmithklinepharmaceuticals/GSK" title="GlaxoSmithKline" class="bl_12">GlaxoSmithKline</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/glenmarkpharma/GP08" title="Glenmark" class="bl_12">Glenmark</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/gmrinfrastructure/GI27" title="GMR Infra" class="bl_12">GMR Infra</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/gujaratnarmadavalleyfertilizerschemicals/GNV" title="GNFC" class="bl_12">GNFC</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cigarettes/godfreyphillipsindia/GPI" title="Godfrey Phillip" class="bl_12">Godfrey Phillip</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/godrejconsumerproducts/GCP" title="Godrej Consumer" class="bl_12">Godrej Consumer</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/godrejindustries/GI23" title="Godrej Ind" class="bl_12">Godrej Ind</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/godrejproperties/GP11" title="Godrej Prop" class="bl_12">Godrej Prop</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/granulesindia/GI25" title="Granules India" class="bl_12">Granules India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/grasimindustries/GI01" title="Grasim" class="bl_12">Grasim</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/engines/greavescotton/GC20" title="Greaves Cotton" class="bl_12">Greaves Cotton</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/greenplyindustries/GI19" title="Greenply Ind" class="bl_12">Greenply Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/abrasives/grindwellnorton/GN" title="Grindwell Norto" class="bl_12">Grindwell Norto</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/gruhfinance/GRU" title="GRUH Finance" class="bl_12">GRUH Finance</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/gujaratstatefertilizerschemicals/GSF" title="GSFC" class="bl_12">GSFC</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/gujaratalkalieschemicals/GAC01" title="Guj Alkali" class="bl_12">Guj Alkali</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/gujaratfluorochemicals/GF07" title="Guj Flourochem" class="bl_12">Guj Flourochem</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/gujaratheavychemicals/GHC" title="Guj Heavy Chem" class="bl_12">Guj Heavy Chem</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miningminerals/gujaratmineraldevelopmentcorporation/GMD" title="Guj Mineral" class="bl_12">Guj Mineral</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/gujaratstatepetronet/GSP02" title="Guj State Petro" class="bl_12">Guj State Petro</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/gujaratgas/GGC" title="Gujarat Gas" class="bl_12">Gujarat Gas</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/shipping/gujaratpipavavport/GPP03" title="Gujarat Pipavav" class="bl_12">Gujarat Pipavav</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/lubricants/gulfoillubricantsindia/GOL01" title="Gulf Oil Lubric" class="bl_12">Gulf Oil Lubric</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/hathwaycabledatacom/HCD" title="Hathway Cable" class="bl_12">Hathway Cable</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/hatsunagroproducts/HAP" title="Hatsun Agro" class="bl_12">Hatsun Agro</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/havellsindia/HI01" title="Havells India" class="bl_12">Havells India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computershardware/hclinfosystems/HCL" title="HCL Info" class="bl_12">HCL Info</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/hcltechnologies/HCL02" title="HCL Tech" class="bl_12">HCL Tech</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/housingdevelopmentfinancecorporation/HDF" title="HDFC" class="bl_12">HDFC</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/hdfcbank/HDF01" title="HDFC Bank" class="bl_12">HDFC Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/housingdevelopmentinfrastructure/HDI" title="HDIL" class="bl_12">HDIL</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/heidelbergcementindia/HCI02" title="Heidelberg Cem" class="bl_12">Heidelberg Cem</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/heritagefoods/HFI" title="Heritage Foods" class="bl_12">Heritage Foods</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/auto23wheelers/heromotocorp/HHM" title="Hero Motocorp" class="bl_12">Hero Motocorp</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/hexawaretechnologies/HT02" title="Hexaware Tech" class="bl_12">Hexaware Tech</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsequipment/himachalfuturisticcommunication/HFC" title="HFCL" class="bl_12">HFCL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilessyntheticsilk/himatsingkaseide/HS" title="Himatsingka Sei" class="bl_12">Himatsingka Sei</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/hindustanconstructioncompany/HCC" title="Hind Constr" class="bl_12">Hind Constr</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/metalsnonferrous/hindustancopper/HC07" title="Hind Copper" class="bl_12">Hind Copper</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/metalsnonferrous/hindustanzinc/HZ" title="Hind Zinc" class="bl_12">Hind Zinc</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/aluminium/hindalcoindustries/HI" title="Hindalco" class="bl_12">Hindalco</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsequipment/honeywellautomation/HA04" title="Honeywell Autom" class="bl_12">Honeywell Autom</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/hindustanpetroleumcorporation/HPC" title="HPCL" class="bl_12">HPCL</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/ceramicsgranite/hsil/HSI02" title="HSIL" class="bl_12">HSIL</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/hindustanunilever/HU" title="HUL" class="bl_12">HUL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/icicibank/ICI02" title="ICICI Bank" class="bl_12">ICICI Bank</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/iciciprudentiallifeinsurancecompany/IPL01" title="ICICI Prudentia" class="bl_12">ICICI Prudentia</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/icra/ICR" title="ICRA" class="bl_12">ICRA</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/idbibank/IDB05" title="IDBI Bank" class="bl_12">IDBI Bank</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/ideacellular/IC8" title="Idea Cellular" class="bl_12">Idea Cellular</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financetermlendinginstitutions/idfc/IDF" title="IDFC" class="bl_12">IDFC</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/idfcbank/IDF01" title="IDFC Bank" class="bl_12">IDFC Bank</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financetermlendinginstitutions/ifci/IFC02" title="IFCI" class="bl_12">IFCI</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/indraprasthagas/IG04" title="IGL" class="bl_12">IGL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/iiflholdings/II15" title="IIFL Holdings" class="bl_12">IIFL Holdings</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/ilandfstransportationnetworks/ITN" title="ILandFS Trans" class="bl_12">ILandFS Trans</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/indiacements/IC" title="India Cements" class="bl_12">India Cements</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/indiabullshousingfinance/IHF01" title="Indiabulls Hsg" class="bl_12">Indiabulls Hsg</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/indiabullsrealestate/IRE01" title="Indiabulls Real" class="bl_12">Indiabulls Real</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/indiabullsventures/IS13" title="Indiabulls Vent" class="bl_12">Indiabulls Vent</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/indianbank/IB04" title="Indian Bank" class="bl_12">Indian Bank</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hotels/indianhotelscompany/IHC" title="Indian Hotels" class="bl_12">Indian Hotels</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesspinningcottonblended/indocountindustries/ICI07" title="Indo Count" class="bl_12">Indo Count</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/indocoremedies/IR05" title="Indoco Remedies" class="bl_12">Indoco Remedies</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/indusindbank/IIB" title="IndusInd Bank" class="bl_12">IndusInd Bank</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/infibeamincorporation/IIL03" title="Infibeam Incorp" class="bl_12">Infibeam Incorp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/infoedgeindia/IEI01" title="Info Edge" class="bl_12">Info Edge</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/infosys/IT" title="Infosys" class="bl_12">Infosys</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/compressors/ingersollrandindia/IRI01" title="Ingersoll Rand" class="bl_12">Ingersoll Rand</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/inoxleisure/INO01" title="INOX Leisure" class="bl_12">INOX Leisure</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/inoxwind/IW" title="Inox Wind" class="bl_12">Inox Wind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/intellectdesignarena/IDA" title="Intellect Desig" class="bl_12">Intellect Desig</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/interglobeaviation/IA04" title="Interglobe Avi" class="bl_12">Interglobe Avi</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/indianoverseasbank/IOB" title="IOB" class="bl_12">IOB</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/indianoilcorporation/IOC" title="IOC" class="bl_12">IOC</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/ipcalaboratories/IL" title="Ipca Labs" class="bl_12">Ipca Labs</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/irbinfrastructuredevelopers/IID01" title="IRB Infra" class="bl_12">IRB Infra</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/engineeringheavy/isgecheavyengineering/SIS06" title="ISGEC Heavy Eng" class="bl_12">ISGEC Heavy Eng</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cigarettes/itc/ITC" title="ITC" class="bl_12">ITC</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/itdcementationindia/ITD03" title="ITD Cementation" class="bl_12">ITD Cementation</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/jkumarinfraprojects/KI01" title="J Kumar Infra" class="bl_12">J Kumar Infra</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/jkcement/JKC03" title="J. K. Cement" class="bl_12">J. K. Cement</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/jagranprakashan/JP12" title="JagranPrakashan" class="bl_12">JagranPrakashan</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steelgpgcsheets/jaicorp/JC08" title="Jai Corp" class="bl_12">Jai Corp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plastics/jainirrigationsystems/JIS02" title="Jain Irrigation" class="bl_12">Jain Irrigation</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/jaiprakashassociates/JA02" title="Jaiprakash Asso" class="bl_12">Jaiprakash Asso</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/jbchemicalspharmaceuticals/JBC01" title="JB Chemicals" class="bl_12">JB Chemicals</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesmanmade/jbfindustries/JBF" title="JBF Industries" class="bl_12">JBF Industries</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/jetairways/JA01" title="Jet Airways" class="bl_12">Jet Airways</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steellarge/jindalstainlesshisar/JSH" title="Jindal (Hisar)" class="bl_12">Jindal (Hisar)</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/packaging/jindalpolyfilms/JPF01" title="Jindal PolyFilm" class="bl_12">Jindal PolyFilm</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steeltubespipes/jindalsaw/JS08" title="Jindal Saw" class="bl_12">Jindal Saw</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steelspongeiron/jindalsteelpower/JSP" title="Jindal Steel" class="bl_12">Jindal Steel</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/jammukashmirbank/JKB" title="JK Bank" class="bl_12">JK Bank</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/jklakshmicement/JKL01" title="JK Lakshmi Cem" class="bl_12">JK Lakshmi Cem</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/jktyreindustries/JKT01" title="JK Tyre &amp; Ind" class="bl_12">JK Tyre &amp; Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/jmfinancial/JMF" title="JM Financial" class="bl_12">JM Financial</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/consumergoodswhitegoods/johnsoncontrolshitachiairconditioningindia/HHL" title="Johnson Control" class="bl_12">Johnson Control</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/jswenergy/JE01" title="JSW Energy" class="bl_12">JSW Energy</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steellarge/jswsteel/JSW01" title="JSW Steel" class="bl_12">JSW Steel</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/jubilantfoodworks/JF04" title="Jubilant Food" class="bl_12">Jubilant Food</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/jubilantlifesciences/JO03" title="Jubilant Life" class="bl_12">Jubilant Life</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/justdial/JD" title="Just Dial" class="bl_12">Just Dial</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/jyothylaboratories/JL" title="Jyothy Labs" class="bl_12">Jyothy Labs</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/ceramicsgranite/kajariaceramics/KC06" title="Kajaria Ceramic" class="bl_12">Kajaria Ceramic</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powertransmissionequipment/kalpatarupowertransmission/KPT" title="Kalpataru Power" class="bl_12">Kalpataru Power</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/paintsvarnishes/kansainerolacpaints/KNP" title="Kansai Nerolac" class="bl_12">Kansai Nerolac</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/karnatakabank/KB04" title="Karnataka Bank" class="bl_12">Karnataka Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/kaveriseedcompany/KSC01" title="Kaveri Seed" class="bl_12">Kaveri Seed</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powertransmissionequipment/kecinternational/KEC04" title="KEC Intl" class="bl_12">KEC Intl</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/kesoramindustries/KI08" title="Kesoram" class="bl_12">Kesoram</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/engines/kirloskaroilengines/KOE03" title="Kirloskar Oil" class="bl_12">Kirloskar Oil</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/kitexgarments/KG01" title="Kitex Garments" class="bl_12">Kitex Garments</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/kotakmahindrabank/KMB" title="Kotak Mahindra" class="bl_12">Kotak Mahindra</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/kpittechnologies/KPI02" title="KPIT Tech" class="bl_12">KPIT Tech</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/kprmill/M15" title="KPR Mill" class="bl_12">KPR Mill</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/krbl/KRB01" title="KRBL" class="bl_12">KRBL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/kwality/KDI01" title="Kwality" class="bl_12">Kwality</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/ltfinanceholdings/LFH" title="L&amp;T Finance" class="bl_12">L&amp;T Finance</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/larsentoubroinfotech/LI12" title="L&amp;T Infotech" class="bl_12">L&amp;T Infotech</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/lttechnologyservices/LTS" title="L&amp;T Technology" class="bl_12">L&amp;T Technology</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/glassglassproducts/laopalarg/LOR" title="La Opala RG" class="bl_12">La Opala RG</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesmachinery/lakshmimachineworks/LMW" title="Lakshmi Machine" class="bl_12">Lakshmi Machine</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/lakshmivilasbank/LVB" title="Lakshmi Vilas" class="bl_12">Lakshmi Vilas</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/larsentoubro/LT" title="Larsen" class="bl_12">Larsen</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/lauruslabs/LL05" title="Laurus Labs" class="bl_12">Laurus Labs</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/lichousingfinance/LIC" title="LIC Housing Fin" class="bl_12">LIC Housing Fin</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/lindeindia/BOC" title="Linde India" class="bl_12">Linde India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/lupin/L" title="Lupin" class="bl_12">Lupin</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autocarsjeeps/mahindramahindra/MM" title="M&amp;M" class="bl_12">M&amp;M</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/mahindramahindrafinancialservices/MMF04" title="M&amp;M Financial" class="bl_12">M&amp;M Financial</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/magmafincorp/MF20" title="Magma Fincorp" class="bl_12">Magma Fincorp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/mahanagargas/MG02" title="Mahanagar Gas" class="bl_12">Mahanagar Gas</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/castingsforgings/mahindracieautomotive/MF19" title="Mahindra CIE" class="bl_12">Mahindra CIE</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hotels/mahindraholidaysresortsindia/MHR" title="Mahindra Holida" class="bl_12">Mahindra Holida</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/mahindralifespacedevelopers/MLD" title="Mahindra Life" class="bl_12">Mahindra Life</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/manappuramfinance/MGF01" title="Manappuram Fin" class="bl_12">Manappuram Fin</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/manpasandbeverages/MB04" title="Manpasand Bever" class="bl_12">Manpasand Bever</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/marico/M13" title="Marico" class="bl_12">Marico</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/marksanspharma/MP21" title="Marksans Pharma" class="bl_12">Marksans Pharma</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autocarsjeeps/marutisuzukiindia/MS24" title="Maruti Suzuki" class="bl_12">Maruti Suzuki</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/maxfinancialservices/MI" title="Max Financial" class="bl_12">Max Financial</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/maxindia/MIL16" title="Max India" class="bl_12">Max India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/mcleodrusselindia/MRI02" title="Mcleod" class="bl_12">Mcleod</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/multicommodityexchangeindia/MCE" title="MCX India" class="bl_12">MCX India</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/mindaindustries/MI4" title="Minda Ind" class="bl_12">Minda Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/mindtree/MT13" title="Mindtree" class="bl_12">Mindtree</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/trading/mmtc/MMT" title="MMTC Ltd" class="bl_12">MMTC Ltd</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miningminerals/moil/M18" title="MOIL" class="bl_12">MOIL</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/monsantoindia/MI39" title="Monsanto India" class="bl_12">Monsanto India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/mothersonsumisystems/MSS01" title="Motherson Sumi" class="bl_12">Motherson Sumi</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/motilaloswalfinancialservices/MOF01" title="Motilal Oswal" class="bl_12">Motilal Oswal</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/mphasis/MB02" title="MphasiS" class="bl_12">MphasiS</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/mrf/MRF" title="MRF" class="bl_12">MRF</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/mangalorerefinerypetrochemicals/MRP" title="MRPL" class="bl_12">MRPL</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/mahanagartelephonenigam/MTN" title="MTNL" class="bl_12">MTNL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/muthootfinance/MF10" title="Muthoot Finance" class="bl_12">Muthoot Finance</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/aluminium/nationalaluminiumcompany/NAC" title="NALCO" class="bl_12">NALCO</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hospitalsmedicalservices/narayanahrudayalaya/NH" title="Narayana Hruda" class="bl_12">Narayana Hruda</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/natcopharma/NP07" title="Natco Pharma" class="bl_12">Natco Pharma</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/navabharatventures/NBV" title="Nava Bharat Ven" class="bl_12">Nava Bharat Ven</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/navinfluorineinternational/NFI" title="Navin Fluorine" class="bl_12">Navin Fluorine</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/navkarcorporation/NC02" title="Navkar Corp" class="bl_12">Navkar Corp</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/printingstationery/navneeteducation/NP01" title="Navneet" class="bl_12">Navneet</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/nbccindia/NBC01" title="NBCC (India)" class="bl_12">NBCC (India)</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/ncc/NCC01" title="NCC" class="bl_12">NCC</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/nestleindia/NI" title="Nestle" class="bl_12">Nestle</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/network18mediainvestments/NMI" title="Network 18" class="bl_12">Network 18</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/nhpc/N07" title="NHPC" class="bl_12">NHPC</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaretraining/niit/NII" title="NIIT" class="bl_12">NIIT</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/niittechnologies/NII02" title="NIIT Tech" class="bl_12">NIIT Tech</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plastics/nilkamal/NP08" title="Nilkamal" class="bl_12">Nilkamal</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/nlcindia/NLC" title="NLC India" class="bl_12">NLC India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miningminerals/nmdc/NMD02" title="NMDC" class="bl_12">NMDC</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/ntpc/NTP" title="NTPC" class="bl_12">NTPC</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/oberoirealty/OR" title="Oberoi Realty" class="bl_12">Oberoi Realty</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/oclindia/OCL" title="OCL India" class="bl_12">OCL India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/oilindia/OI13" title="Oil India" class="bl_12">Oil India</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/omaxe/O02" title="Omaxe" class="bl_12">Omaxe</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/oilnaturalgascorporation/ONG" title="ONGC" class="bl_12">ONGC</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/oraclefinancialservicessoftware/OFS01" title="Oracle Fin Serv" class="bl_12">Oracle Fin Serv</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/orientcement/OC10" title="Orient Cement" class="bl_12">Orient Cement</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/orientalbankcommerce/OBC" title="Oriental Bank" class="bl_12">Oriental Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/personalcare/proctergamblehygienehealthcare/PGH" title="P and G" class="bl_12">P and G</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesreadymadeapparels/pageindustries/PI35" title="Page Industries" class="bl_12">Page Industries</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/paragmilkfoods/PMF01" title="Parag Milk Food" class="bl_12">Parag Milk Food</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diamondcuttingjewellerypreciousmetals/pcjeweller/PJ" title="PC Jeweller" class="bl_12">PC Jeweller</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/persistentsystems/PS15" title="Persistent" class="bl_12">Persistent</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/oildrillingandexploration/petronetlng/PLN" title="Petronet LNG" class="bl_12">Petronet LNG</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/pfizer/P" title="Pfizer" class="bl_12">Pfizer</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/phoenixmills/PM02" title="Phoenix Mills" class="bl_12">Phoenix Mills</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/piindustries/PII" title="PI Industries" class="bl_12">PI Industries</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/pidiliteindustries/PI11" title="Pidilite Ind" class="bl_12">Pidilite Ind</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/piramalenterprises/PH05" title="Piramal Enter" class="bl_12">Piramal Enter</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/punjabnationalbank/PNB05" title="PNB" class="bl_12">PNB</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/pnbhousingfinance/PHF" title="PNB Housing Fin" class="bl_12">PNB Housing Fin</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/pncinfratech/PI26" title="PNC Infratech" class="bl_12">PNC Infratech</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/polarisconsultingservices/PSL01" title="Polaris Consult" class="bl_12">Polaris Consult</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financetermlendinginstitutions/powerfinancecorporation/PFC02" title="Power Finance" class="bl_12">Power Finance</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/powergridcorporationindia/PGC" title="Power Grid Corp" class="bl_12">Power Grid Corp</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/engineeringheavy/prajindustries/PI17" title="Praj Industries" class="bl_12">Praj Industries</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/prestigeestatesprojects/PEP02" title="Prestige Estate" class="bl_12">Prestige Estate</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/prismcement/PC" title="Prism Cement" class="bl_12">Prism Cement</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/trading/ptcindia/PTC02" title="PTC India" class="bl_12">PTC India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financetermlendinginstitutions/ptcindiafinancialservices/PIF02" title="PTC India Fin" class="bl_12">PTC India Fin</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/pvr/PVR" title="PVR" class="bl_12">PVR</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/breweriesdistilleries/radicokhaitan/RK01" title="Radico Khaitan" class="bl_12">Radico Khaitan</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/rainindustries/RC12" title="Rain Industries" class="bl_12">Rain Industries</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diamondcuttingjewellerypreciousmetals/rajeshexports/RE07" title="Rajesh Exports" class="bl_12">Rajesh Exports</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/rallisindia/RI03" title="Rallis India" class="bl_12">Rallis India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/theramcocements/MC" title="Ramco Cements" class="bl_12">Ramco Cements</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fertilisers/rashtriyachemicalsfertilisers/RCF01" title="Rashtriya Chem" class="bl_12">Rashtriya Chem</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steeltubespipes/ratnamanimetalstubes/RMT" title="Ratnamani Metal" class="bl_12">Ratnamani Metal</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/rattanindiapower/IP09" title="Rattan Power" class="bl_12">Rattan Power</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textileswoollenworsted/raymond/R" title="Raymond" class="bl_12">Raymond</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/rblbank/RB03" title="RBL Bank" class="bl_12">RBL Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financetermlendinginstitutions/ruralelectrificationcorporation/REC02" title="REC" class="bl_12">REC</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computershardware/redingtonindia/RI37" title="Redington" class="bl_12">Redington</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/reliancecapital/RC" title="Rel Capital" class="bl_12">Rel Capital</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/leatherproducts/relaxofootwears/RF07" title="Relaxo Footwear" class="bl_12">Relaxo Footwear</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI" title="Reliance" class="bl_12">Reliance</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/reliancecommunications/RC13" title="Reliance Comm" class="bl_12">Reliance Comm</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/relianceinfrastructure/RI38" title="Reliance Infra" class="bl_12">Reliance Infra</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/shipping/reliancenavalengineering/PS04" title="Reliance Naval" class="bl_12">Reliance Naval</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/reliancepower/RP" title="Reliance Power" class="bl_12">Reliance Power</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/religareenterprises/RE09" title="Religare Enterp" class="bl_12">Religare Enterp</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financehousing/repcohomefinance/RHF" title="Repco Home" class="bl_12">Repco Home</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/roltaindia/RI15" title="Rolta" class="bl_12">Rolta</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/shkelkarcompany/KC17" title="S H Kelkar" class="bl_12">S H Kelkar</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/sadbhavengineering/SE19" title="Sadbhav Engg" class="bl_12">Sadbhav Engg</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steellarge/steelauthorityindia/SAI" title="SAIL" class="bl_12">SAIL</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sanofiindia/AP26" title="Sanofi India" class="bl_12">Sanofi India</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/statebankindia/SBI" title="SBI" class="bl_12">SBI</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bearings/schaefflerindia/FAG" title="Schaeffler Ind" class="bl_12">Schaeffler Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/schneiderelectricinfrastructure/SEI04" title="Schneider Infra" class="bl_12">Schneider Infra</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sequentscientific/PID01" title="Sequent Scienti" class="bl_12">Sequent Scienti</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pesticidesagrochemicals/shardacropchem/SC04" title="Sharda Crop" class="bl_12">Sharda Crop</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/sheelafoam/SF14" title="Sheela Foam" class="bl_12">Sheela Foam</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/shilpamedicare/SM19" title="Shilpa" class="bl_12">Shilpa</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/shipping/shippingcorporationindia/SCI" title="Shipping Corp" class="bl_12">Shipping Corp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/shoppersstop/SS51" title="Shoppers Stop" class="bl_12">Shoppers Stop</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/shreecements/SC12" title="Shree Cements" class="bl_12">Shree Cements</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/sugar/shreerenukasugars/SRS03" title="Shree Renuka" class="bl_12">Shree Renuka</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/shriramcityunionfinance/SCU" title="Shriram City" class="bl_12">Shriram City</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/shriramtransportfinancecorporation/STF" title="Shriram Trans" class="bl_12">Shriram Trans</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/siemens/S" title="Siemens" class="bl_12">Siemens</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/sitinetworks/WWI" title="Siti Networks" class="bl_12">Siti Networks</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/sjvn/S11" title="SJVN" class="bl_12">SJVN</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bearings/skfindia/SKF01" title="SKF India" class="bl_12">SKF India</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/smlisuzu/SM" title="SML Isuzu" class="bl_12">SML Isuzu</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/sobha/SD6" title="Sobha" class="bl_12">Sobha</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/solarindustriesindia/SII04" title="Solar Ind" class="bl_12">Solar Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/ceramicsgranite/somanyceramics/SC49" title="Somany Ceramics" class="bl_12">Somany Ceramics</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/sonatasoftware/SS42" title="Sonata" class="bl_12">Sonata</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/southindianbank/SIB" title="South Ind Bk" class="bl_12">South Ind Bk</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/transportlogistics/spicejet/SJ01" title="SpiceJet" class="bl_12">SpiceJet</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeleasinghirepurchase/sreiinfrastructurefinance/SRE02" title="SREI Infra" class="bl_12">SREI Infra</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesmanmade/srf/SRF" title="SRF" class="bl_12">SRF</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cablestelephone/sterlitetechnologies/ST20" title="Sterlite Techno" class="bl_12">Sterlite Techno</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/stridesshasun/SA10" title="Strides Shasun" class="bl_12">Strides Shasun</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/dyespigments/sudarshanchemicalindustries/SCI08" title="Sudarshan Chem" class="bl_12">Sudarshan Chem</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI" title="Sun Pharma" class="bl_12">Sun Pharma</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaadvancedresearchcompany/SPA" title="Sun Pharma Adv" class="bl_12">Sun Pharma Adv</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/suntvnetwork/STN01" title="Sun TV Network" class="bl_12">Sun TV Network</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/fasteners/sundramfasteners/SF23" title="Sundram" class="bl_12">Sundram</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingrealestate/sunteckrealty/SR05" title="Sunteck Realty" class="bl_12">Sunteck Realty</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plastics/supremeindustries/SI48" title="Supreme Ind" class="bl_12">Supreme Ind</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/suvenlifesciences/SLS01" title="Suven Life Sci" class="bl_12">Suven Life Sci</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/suzlonenergy/SE17" title="Suzlon Energy" class="bl_12">Suzlon Energy</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/trading/swanenergy/SM09" title="Swan Energy" class="bl_12">Swan Energy</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/consumergoodswhitegoods/symphony/SCS04" title="Symphony" class="bl_12">Symphony</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/syndicatebank/SB9" title="Syndicate Bank" class="bl_12">Syndicate Bank</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/syngeneinternational/SI10" title="Syngene Intl" class="bl_12">Syngene Intl</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/takesolutions/TS09" title="Take Solutions" class="bl_12">Take Solutions</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/paper/tamilnadunewsprintpapers/TNN" title="Tamil Newsprint" class="bl_12">Tamil Newsprint</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/tatachemicals/TC" title="Tata Chemicals" class="bl_12">Tata Chemicals</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/tatacoffee/TC14" title="Tata Coffee" class="bl_12">Tata Coffee</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/telecommunicationsservice/tatacommunications/TC17" title="Tata Comm" class="bl_12">Tata Comm</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/tataelxsi/TE" title="Tata Elxsi" class="bl_12">Tata Elxsi</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plantationsteacoffee/tataglobalbeverage/TT" title="Tata Global Bev" class="bl_12">Tata Global Bev</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financeinvestments/tatainvestmentcorporation/TIC" title="Tata Inv Corp" class="bl_12">Tata Inv Corp</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/tatamotors/TM03" title="Tata Motors" class="bl_12">Tata Motors</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autolcvshcvs/tatamotorsdvr/TMD" title="Tata Motors (D)" class="bl_12">Tata Motors (D)</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/tatapowercompany/TPC" title="Tata Power" class="bl_12">Tata Power</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steelspongeiron/tataspongeiron/TSI" title="Tata Sponge" class="bl_12">Tata Sponge</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steellarge/tatasteel/TIS" title="Tata Steel" class="bl_12">Tata Steel</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/tataconsultancyservices/TCS" title="TCS" class="bl_12">TCS</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/techmahindra/TM4" title="Tech Mahindra" class="bl_12">Tech Mahindra</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/technoelectricengineeringcompany/TEE" title="Techno Electric" class="bl_12">Techno Electric</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/texmacorailengineering/TRE" title="Texmaco Rail" class="bl_12">Texmaco Rail</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/thermax/T" title="Thermax" class="bl_12">Thermax</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/thomascookindia/TCI" title="Thomas Cook" class="bl_12">Thomas Cook</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hospitalsmedicalservices/thyrocaretechnologies/TT16" title="Thyrocare Techn" class="bl_12">Thyrocare Techn</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/tifinancialholdings/TII" title="TI Financial" class="bl_12">TI Financial</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bearings/timkenindia/TI23" title="Timken" class="bl_12">Timken</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/titagarhwagons/TW04" title="Titagarh Wagons" class="bl_12">Titagarh Wagons</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01" title="Titan Company" class="bl_12">Titan Company</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06" title="Torrent Pharma" class="bl_12">Torrent Pharma</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/powergenerationdistribution/torrentpower/TP14" title="Torrent Power" class="bl_12">Torrent Power</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/retail/trent/T04" title="Trent" class="bl_12">Trent</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesspinningcottonblended/trident/AI01" title="Trident" class="bl_12">Trident</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/triveniturbine/TT14" title="Triveni Turbine" class="bl_12">Triveni Turbine</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/domesticappliances/ttkprestige/TTK02" title="TTK Prestige" class="bl_12">TTK Prestige</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/tvtodaynetwork/TVT" title="TV TodayNetwork" class="bl_12">TV TodayNetwork</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/tv18broadcast/IBN" title="TV18 Broadcast" class="bl_12">TV18 Broadcast</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/auto23wheelers/tvsmotorcompany/TVS" title="TVS Motor" class="bl_12">TVS Motor</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/tyres/tvssrichakra/TVS03" title="TVS Srichakra" class="bl_12">TVS Srichakra</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/ucobank/UCO" title="UCO Bank" class="bl_12">UCO Bank</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/packaging/uflex/U01" title="Uflex" class="bl_12">Uflex</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/financegeneral/ujjivanfinancialservices/UFS01" title="Ujjivan Financi" class="bl_12">Ujjivan Financi</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cementmajor/ultratechcement/UTC01" title="UltraTechCement" class="bl_12">UltraTechCement</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/unichemlaboratories/UL02" title="Unichem Labs" class="bl_12">Unichem Labs</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/unionbankindia/UBI01" title="Union Bank" class="bl_12">Union Bank</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/constructioncontractingcivil/unitech/U" title="Unitech" class="bl_12">Unitech</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/breweriesdistilleries/unitedbreweries/UB02" title="United Brewerie" class="bl_12">United Brewerie</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/upl/UP04" title="UPL" class="bl_12">UPL</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/electricequipment/vguardindustries/VI02" title="V-Guard Ind" class="bl_12">V-Guard Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/infrastructuregeneral/vatechwabag/VTW" title="Va Tech Wabag" class="bl_12">Va Tech Wabag</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftwaremediumsmall/vakrangee/VS" title="Vakrangee" class="bl_12">Vakrangee</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesspinningcottonblended/vardhmantextiles/VT10" title="Vardhman Text" class="bl_12">Vardhman Text</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/foodprocessing/varunbeverages/VB05" title="Varun Beverages" class="bl_12">Varun Beverages</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miningminerals/vedanta/SG" title="Vedanta" class="bl_12">Vedanta</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/consumergoodselectronic/videoconindustries/VLF" title="Videocon Ind" class="bl_12">Videocon Ind</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/bankspublicsector/vijayabank/VB03" title="Vijaya Bank" class="bl_12">Vijaya Bank</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/chemicals/vinatiorganics/VO01" title="Vinati Organics" class="bl_12">Vinati Organics</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/plastics/vipindustries/VIP" title="VIP Industries" class="bl_12">VIP Industries</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/diversified/voltas/V" title="Voltas" class="bl_12">Voltas</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/cigarettes/vstindustries/VST" title="VST" class="bl_12">VST</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/autoancillaries/wabcoindia/WAB" title="WABCO India" class="bl_12">WABCO India</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/steeltubespipes/welspuncorp/WGS" title="Welspun Corp" class="bl_12">Welspun Corp</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/textilesweaving/welspunindia/WI03" title="Welspun India" class="bl_12">Welspun India</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/hotels/westlifedevelopment/DIC" title="Westlife Dev" class="bl_12">Westlife Dev</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/consumergoodswhitegoods/whirlpoolindia/WI" title="Whirlpool" class="bl_12">Whirlpool</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/wipro/W" title="Wipro" class="bl_12">Wipro</a>
+						</td>
+											</tr>
+									<tr>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/wockhardt/W05" title="Wockhardt" class="bl_12">Wockhardt</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/miscellaneous/wonderlaholidays/WH01" title="Wonderla" class="bl_12">Wonderla</a>
+						</td>
+						<td class="last">
+							<a href="http://www.moneycontrol.com/india/stockpricequote/banksprivatesector/yesbank/YB" title="Yes Bank" class="bl_12">Yes Bank</a>
+						</td>
+											</tr>
+									<tr bgcolor="#f6f6f6">
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/mediaentertainment/zeeentertainmententerprises/ZEE" title="Zee Entertain" class="bl_12">Zee Entertain</a>
+						</td>
+						<td>
+							<a href="http://www.moneycontrol.com/india/stockpricequote/computerssoftware/zensartechnologies/ZT02" title="Zensar Tech" class="bl_12">Zensar Tech</a>
+						</td>
+						<td class="last">
+							<a href="" title="" class="bl_12"></a>
+						</td>
+											</tr>
+							</tbody></table>
+							
+							
+
+
+
+
+
+Stock Name from stock Page:
+<div class="b_42 PT5 PR">
+				<h1 class="b_42 company_name">3M India Ltd.</h1>
+				 <!-- Sponsor Logo HTML -->
+							</div>	
+Stock Sector:
+<a href="http://www.moneycontrol.com/stocks/sectors/diversified.html" class="gry10" title="Diversified">DIVERSIFIED</a>
+
+
+Stock Price NSE:
+<span class="PA2" id="Nse_Prc_tick" style="color: rgb(68, 151, 3);"><strong>18182.15</strong></span>	
+
+Prev Close NSE:
+<div id="n_prevclose" class="gD_12 PB3"><strong>18105.35</strong></div>
+
+Open Price NSE:
+<div id="n_open" class="gD_12 PB3"><strong>18188.00</strong></div>
+
+Stock Price NSE:
+<span id="Bse_Prc_tick" style="color: rgb(68, 151, 3);"><strong>18184.40</strong></span>
+
+Volume NSE:
+<span class="gD_12" id="nse_volume"><strong>659</strong></span>
+
+5 Day Vol NSE:
+<td id="avgvol5daysN" align="right" class="gD_11">1054.20</td>
+
+10 Days Vol NSE:
+<td id="avgvol10daysN" align="right" class="gD_11">1622.90</td>
+
+15 Days Vol NSE:
+<td id="avgvol30daysN" align="right" class="gD_11">2309.70</td>
+
+Previous Close BSE:
+<div class="gD_12 PB3" id="b_prevclose"><strong>18020.35</strong></div>
+
+Open BSE:
+<div class="gD_12 PB3" id="b_open"><strong>18200.00</strong></div>
+
+Volume BSE:
+<span id="bse_volume" class="gD_12"><strong>206</strong></span>
+
+5 day Vol BSE:
+<td align="right" class="gD_11" id="avgvol5daysB">299.40</td>
+
+10 Day Vol BSE:
+<td align="right" class="gD_11" id="avgvol10daysB">359.60</td>
+
+30 Day Vol BSE:
+<td align="right" class="gD_11" id="avgvol30daysB">490.20</td>
+
+
+Buy Quantity:
+<p id="b_total_buy_qty" class="FR">77</p>
+
+Sell Quantity:
+<p id="b_total_sell_qty" class="FR">12</p>
+
+
+SentiMeter:
+<div class="PB5">
+Buy%:
+<span class="pl_txt" style="width:82%">82%</span>
+Sell%:
+<span class="pl_txt rtxt" style="width:7%">7%</span>
+Hold%:
+<span class="pl_txt grytxt" style="width:11%">11%</span>
+</div>
+
+Sentimeter Recommendation:
+<p class="gDl_15">
+
+							
+								<span class="grnb_20">60%</span> of moneycontrol users recommend <span class="gD_18"><strong>selling</strong></span> Adani Enterpris. 
+
+								
+
+							
+								<span class="gD_18"><strong>What's your call on Adani Enterpris today?</strong></span>
+
+								<br><a href="http://mmb.moneycontrol.com/stock-message-forum/adanienterprises/comments/6541?utm_source=PC_SENTI" target="_blank" title="new comments" class="bl_11"><u>Read 10 investor views</u></a>
+							</p>
+
+
+PE:
+<div class="FR gD_12">34.74</div>
+

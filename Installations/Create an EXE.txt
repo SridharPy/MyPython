@@ -1,0 +1,16 @@
+pip install pyinstaller
+
+Once Done. type pyinstaller main_scriptname.py
+
+For desktop APP the main script is FrontBookApp.py as it imports BackBookApp.py so
+
+pyinstaller FrontBookApp.py
+
+But this will create a lot more files which is good for troubleshooting but for a single exe type below --onefile --windowed without windowed the file will open a command prompt in background
+
+pyinstaller --onefile --windowed FrontBookApp.py
+
+
+
+
+

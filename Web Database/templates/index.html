@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<title>Web App</title>
+<head>
+  <link href="../static/main.css" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <h1>Collecting Users Height</h1>
+    <h3>Enter your data to get average of all users height</h3>
+    <div class="message">
+      {{text | safe}}
+    </div>
+    <form action="{{url_for('success')}}" method="POST"> <!-- for html alone we use action="success.html"; url_for is used for Flask/Jinja-->
+      <input title="Your data will be safe with us" placeholder="Enter Email ID" type="email" name="email_val" required><br> <!--email_val is variable used by python to feth the value-->
+      <input title="Your data will be safe with us" placeholder="Enter Height in CM" type="number" min="50" max ="300" step="0.1" name="height_val" required><br> <!--step is for decimal values for 2 0.01-->
+      <button type="submit">Submit</button>
+    </form>
+  </div>
+</body>
+</html>

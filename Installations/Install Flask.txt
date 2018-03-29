@@ -1,0 +1,3 @@
+FLASK Framework is required to build websites
+
+pip install flask

@@ -1,0 +1,26 @@
+<a class="act selected" href="javascript:void(0)">1</a>
+
+<a class="act" onclick="propResultPager.showPage(2,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);" href="/property-for-sale/residential-real-estate/Page-2"> <b>2</b></a>
+
+
+
+
+
+
+
+
+New Link Element
+<a href="/property-for-sale/residential-real-estate-Pune//Page-9" class="act" onclick="propResultPager.showPage(9,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);"> <b>9</b></a>
+
+
+
+
+New Link
+
+https://www.magicbricks.com/property-for-sale/residential-real-estate-Pune/Page-9
+https://www.magicbricks.com/property-for-sale/residential-real-estate-Pune/Page-1
+
+
+
+Page element Link:
+<a href="/property-for-sale/residential-real-estate-Pune/Page-2508" class="act" onclick="propResultPager.showPage(2508,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);"> <b>2508</b></a>

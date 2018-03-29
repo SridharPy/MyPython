@@ -1,0 +1,151 @@
+2 and 3 BHK Pune
+First page = "https://www.magicbricks.com/property-for-sale/residential-real-estate?nsrSearchBar=N&searchTransMode=driving&price=Y&editSearch=Y&sortBy=Lowest%20Price&bar_propertyType_new=10002_10003_10021_10022&tab1=property&bedroom=2,3&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&cityName=Pune/Page-1"
+
+baseurl= "https://www.magicbricks.com/property-for-sale/residential-real-estate?nsrSearchBar=N&searchTransMode=driving&price=Y&editSearch=Y&sortBy=Lowest%20Price&bar_propertyType_new=10002_10003_10021_10022&tab1=property&bedroom=2,3&proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&cityName=Pune/Page-"
+
+Page number element, here page number is 5
+<a href="/property-for-sale/residential-real-estate?nsrSearchBar=N&amp;searchTransMode=driving&amp;price=Y&amp;editSearch=Y&amp;sortBy=Lowest%20Price&amp;bar_propertyType_new=10002_10003_10021_10022&amp;tab1=property&amp;bedroom=2,3&amp;proptype=Multistorey-Apartment,Builder-Floor-Apartment,Penthouse,Studio-Apartment&amp;cityName=Pune/Page-5" class="act" onclick="propResultPager.showPage(5,this);scroll(0,0);_gaq.push(['_trackPageview','/bricks/propertySearch.html']);"> <b>5</b></a>
+
+Class identifier for page number to be used in find_all in BeasutifulSoup
+page_no=bsoup.find_all("a",{"class":"act"})[-1].text
+
+
+To Pull each property listing block
+search_all = soup.find_all("div",{"class":"flex relative clearfix m-srp-card__container"})
+
+To Pull Price
+"div",{"class":"m-srp-card__price"}
+
+
+To Pull Possession Status:
+<div class="m-srp-card__summary__info">Ready to Move</div>
+
+
+
+Location: Element
+<a class="m-srp-card__title" href="/propertyDetails/2-BHK-410-Sq-ft-Multistorey-Apartment-FOR-Sale-Uruli-Kanchan-in-Pune&amp;id=4d423239353930343533" target="_blank">
+<input id="bedroomVal29590453" type="hidden" value="2">
+<input id="propertyVal29590453" type="hidden" value="Apartment">
+<span class="m-srp-card__title__bhk" onclick="stopPage=true;">
+2 BHK Apartment
+</span>
+for sale in
+Dreams Nivara,
+Uruli Kanchan
+</a>
+
+a, class = "m-srp-card__title"
+
+
+Floor Number:
+<div class="m-srp-card__summary__info">2nd of 3 floors</div>
+
+div, class="m-srp-card__summary__info"
+
+
+To Pull if Super or Carpet Area
+
+<div class="m-srp-card__summary__title">carpet area</div>
+
+
+Posted Date:
+<span itemprop="dateCreated"> 25th Nov</span>
+
+
+Agent Name:
+
+d["Posted Person"]=item.find("b",{"class":"agentNameh"}).text
+
+if certified agent then above is not valid the agent name is listed like below in html source file
+<div class="m-srp-card__advertiser__name">Pravah Properties
+
+Posted Type:
+d["Posted By"]=item.find("div",{"class", "m-srp-card__advertiser__type"}).text
+if certified agent then  above will be blank
+use class identfier
+<div class="m-srp-card__advertiser__label">Certified Agent</div>
+
+<div class="m-srp-card__advertiser__label">Certified Agent</div>
+
+
+Car Parking:
+
+<div class="m-srp-card__summary__item">
+			            <div class="m-srp-card__summary__title">car parking</div>
+			            <div class="m-srp-card__summary__info">1 Open</div>
+			        </div>
+
+					
+Floor Inofrmation: Need to put it in for loop and if as resale is coming in some records instead of floor.
+
+<div class="m-srp-card__summary__item">
+			            <div class="m-srp-card__summary__title">floor</div>
+			            <div class="m-srp-card__summary__info">7th of 7 floors</div>
+</div> 
+
+
+Transaction Type : Resale or New
+
+<div class="m-srp-card__summary__item">
+			            <div class="m-srp-card__summary__title">transaction</div>
+			            <div class="m-srp-card__summary__info">Resale</div>
+			        </div>
+
+
+Furshined , unfurnished:
+<div class="m-srp-card__summary__title">furnishing</div>
+<div class="m-srp-card__summary__info">Unfurnished</div>
+
+Per Square feet value:
+<span class="semi-bold">? 4,274</span>
+
+
+Other applicable Charges list:
+
+here <div class="td"> pulls all these values so putiing logic only for this, ignore <div class="applicableCharges">
+
+
+<div class="applicableCharges">
+<div class="tr">
+<div class="td">
+Approx. Registration Charges
+</div>
+<div class="td">
+? 1,50,000
+</div>
+</div>
+</div>
+
+<div class="applicableCharges">
+<div class="tr">
+<div class="td">
+Brokerage
+</div>
+<div class="td">
+No Brokerage
+</div>
+</div>
+</div>
+
+
+<div class="bdrTop_Btm bg_greyLgt allInclusive">
+<div class="tr bold active">
+<div class="td">
+All Inclusive Price
+</div>
+<div class="td">
+? 26,50,000
+</div>
+</div>
+</div>
+
+
+<div class="tr">
+                    <div class="td">
+                        Service Tax
+                    </div>
+                    <div class="td">
+                        ? 59,486
+                    </div>
+                </div>
+					

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_3e68dc8269d74863928e57de0562d0fa {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_3e68dc8269d74863928e57de0562d0fa" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_3e68dc8269d74863928e57de0562d0fa = L.map(
+                                  'map_3e68dc8269d74863928e57de0562d0fa',
+                                  {center: [42.2241632142232,-71.5217111261125],
+                                  zoom: 5,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_e154947bcab24ef0a4e4b1475daabc23 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_3e68dc8269d74863928e57de0562d0fa);
+        
+    
+            var feature_group_01f92acc44cf49cd93cf6eb6fe5fa58f = L.featureGroup(
+                ).addTo(map_3e68dc8269d74863928e57de0562d0fa);
+        
+    
+
+            var marker_e0e4c1b246ed4f4589015fdae9e029cd = L.marker(
+                [42.208363,-71.550869],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(feature_group_01f92acc44cf49cd93cf6eb6fe5fa58f);
+            
+    
+
+                var icon_e946474370324a7185b1076c2cb787b7 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'Orange',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_e0e4c1b246ed4f4589015fdae9e029cd.setIcon(icon_e946474370324a7185b1076c2cb787b7);
+            
+    
+            var popup_79f6ba81555f4ec6b83bbfcd7fe339f4 = L.popup({maxWidth: '300'});
+
+            
+                var html_906c060a96214d95bb69f235a8ecbec4 = $('<div id="html_906c060a96214d95bb69f235a8ecbec4" style="width: 100.0%; height: 100.0%;">DellEMC Office, Hopkinton, MA</div>')[0];
+                popup_79f6ba81555f4ec6b83bbfcd7fe339f4.setContent(html_906c060a96214d95bb69f235a8ecbec4);
+            
+
+            marker_e0e4c1b246ed4f4589015fdae9e029cd.bindPopup(popup_79f6ba81555f4ec6b83bbfcd7fe339f4);
+
+            
+        
+</script>

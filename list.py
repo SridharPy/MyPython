@@ -1,0 +1,10 @@
+items=["a","b","Hello World",2]
+print(items[1])
+print(items)
+items.remove(2)
+print(items[1])
+print(items)
+print(type(items))
+print(dir(list))
+print(help(list.insert))
+print(help(list))

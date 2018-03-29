@@ -1,0 +1,3 @@
+pip install bukeh==0.12.6
+
+pip install bkcharts==0.2

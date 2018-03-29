@@ -1,0 +1,327 @@
+ ANALYZE public.folderdocument_1_prt_tid4070911513_2_prt_month201612; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 3983436 and value (limited to 100 characters): '     F157CE12C96C2C8 GOCcode=10351566 9AD6995D3550230 Departmentcode=Retired09302014 5A973520EC0BD54' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1246457082_2_prt_month201612; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 3324248 and value (limited to 100 characters): 'BD6DDED72EE40764 SMTP dl.otrc.us.globalcbatcommunications1@imcnam.ssmb.com dl.otrc.us.globalcbatcomm' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1310165219_2_prt_month201611; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2038129 and value (limited to 100 characters): ' Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=  7917BE15ABA58A9C ManagedSegment=23995' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201601; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 41095 and value (limited to 100 characters): 'DC57DE9D7A931893 SMTP ap40880@imceu.eu.ssmb.com ap40880@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201607; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1796559 and value (limited to 100 characters): '   Expensecode=C10341 83A335E15DF11291 ManagedSegment=12706 1B384B7E8779E7B0 SOEID=SL94180 DCA300E4A' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2428537202_2_prt_month201607; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 91977 and value (limited to 100 characters): 'FB06C56396E8F52A SMTP aa82227@imceu.eu.ssmb.com aa82227@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid932383258_2_prt_month201604; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1290285 and value (limited to 100 characters): ' Expensecode=  7917BE15ABA58A9C ManagedSegment=681 A3EBF5619AA24ADC SOEID=DG31125 387A6AC9475D647D G' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201605; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 52995 and value (limited to 100 characters): 'D73DDE2CF56AB590 SMTP aa94469@imcap.ap.ssmb.com aa94469@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2813207357_2_prt_month201602; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 3273664 and value (limited to 100 characters): ' CF8A43D1A8EEF0BC BrokerDealer=False 67AA85AC2CBD9941 Trader=False D9F5A1AF35A8D01C  2AD9F4F3DDF7F75' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1188432292_2_prt_month201605; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 864698 and value (limited to 100 characters): 'F9C2AF02E808FB97 SMTP aa14279@imcnam.ssmb.com aa14279@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1201087529_2_prt_month201605; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 48449 and value (limited to 100 characters): 'FF15BCD370DB5411 SMTP aa64498@imcnam.ssmb.com aa64498@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2532142070_2_prt_month201605; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2004219 and value (limited to 100 characters): ' BrokerDealer=False 67AA85AC2CBD9941 Trader=False D9F5A1AF35A8D01C Regioncode=NAM FB617FC110AD9340 C' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2939846399_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 496918 and value (limited to 100 characters): 'A2223604AA60A5B1 SMTP ab58312@imcap.ap.ssmb.com ab58312@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4070911513_2_prt_month201610; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1031663 and value (limited to 100 characters): ' Regioncode=NAM FB617FC110AD9340 Countrycode=US DE83E5530EEA1F8B Locationcode=27969 8E63A227337A002C' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4002597080_2_prt_month201607; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 393617 and value (limited to 100 characters): 'F9C2AF02E808FB97 SMTP aa14279@imcnam.ssmb.com aa14279@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201509; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 964253 and value (limited to 100 characters): 'F0B6559A5D4FCC02 SMTP dl.em.global.credit.sales@imcnam.ssmb.com dl.em.global.credit.sales@imcnam.ssm' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid903005342_2_prt_month201507; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 796895 and value (limited to 100 characters): ' Countrycode=THA 9FC22E6196B4EFFD Locationcode=41524 B9FFEF978D6F5500 GOCcode=14726404 B38DEB5694D81' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201606; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 48233 and value (limited to 100 characters): 'C65A35404F1E407B SMTP az38359@imcap.ap.ssmb.com az38359@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2532142070_2_prt_month201606; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 4281873 and value (limited to 100 characters): ' lh32883@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regioncode=NAM FB617FC110AD9340 Countrycode=US DE' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201606; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1254457 and value (limited to 100 characters): '  imceu.eu.ssmb.com  Regioncode=EMEA ABA5E8E2C8BD9A84 Countrycode=GB A933F3993168C921 Locationcode=2' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1601715309_2_prt_month201606; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1781930 and value (limited to 100 characters): ' EDDE629C3A65656F Countrycode=IN A9F12CA855F31BE4 Locationcode=44559 66684A77C69E87 GOCcode=155353QZ' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid73151899_2_prt_month201508; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 39060 and value (limited to 100 characters): 'CD23192B3CDE0EE0 SMTP aa40305@imcnam.ssmb.com aa40305@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1317611601_2_prt_month201605; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 48395 and value (limited to 100 characters): 'C2D0D3B5E5B75051 SMTP ad16845@imceu.eu.ssmb.com ad16845@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201510; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 30245 and value (limited to 100 characters): '9FCBB04DE4B043E6 SMTP ag23779@imceu.eu.ssmb.com ag23779@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201510; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 173127 and value (limited to 100 characters): 'AE99916905B1542C SMTP zz69260@imcap.ap.ssmb.com zz69260@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201510; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 43062 and value (limited to 100 characters): 'DEC38C6E0B4E2E55 SMTP 8861051@imcap.ap.ssmb.com 8861051@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1317611601_2_prt_month201510; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2029993 and value (limited to 100 characters): ' ra05079@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com  Regioncode=APAC EDDE629C3A65656F Countrycode=' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid821590848_2_prt_month201510; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1899321 and value (limited to 100 characters): 'A6E7EB5F656C8460 SMTP gbkgglobaldirectors@imcnam.ssmb.com gbkgglobaldirectors@imcnam.ssmb.com 5E616A' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1201087529_2_prt_month201511; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 50980 and value (limited to 100 characters): 'EA1976958BB3CF8E SMTP ab16405@imcap.ap.ssmb.com ab16405@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1188432292_2_prt_month201511; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 308186 and value (limited to 100 characters): 'A8D59FBDAA3BFE09 SMTP *ap_sg_rito_maintenance@imcnam.ssmb.com *ap_sg_rito_maintenance@imcnam.ssmb.co' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3531157022_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 764906 and value (limited to 100 characters): '9480901F5799F0EF SMTP aa72676@imceu.eu.ssmb.com aa72676@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4002597080_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 228812 and value (limited to 100 characters): 'F133CAAD1CD685CE SMTP aa93530@imcap.ap.ssmb.com aa93530@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1317611601_2_prt_month201503; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 28652 and value (limited to 100 characters): 'E7A529A234F723A1 SMTP ab76786@imcap.ap.ssmb.com ab76786@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201503; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 80289 and value (limited to 100 characters): '3032EB8C4DC629F7 SMTP ab23683@imcnam.ssmb.com ab23683@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1601715309_2_prt_month201503; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1187283 and value (limited to 100 characters): 'FFD1DBC333868A82 SMTP dl.gt.emea.autosys.e3.users@imceu.eu.ssmb.com dl.gt.emea.autosys.e3.users@imce' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid453607739_2_prt_month201503; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 504693 and value (limited to 100 characters): 'CBDEE404C936E818 SMTP aa02069@imcnam.ssmb.com aa02069@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4201977955_2_prt_month201504; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 43086 and value (limited to 100 characters): 'F1C45B9AEE12525D SMTP ah53776@imcnam.ssmb.com ah53776@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2519565350_2_prt_month201504; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 50045 and value (limited to 100 characters): 'D7EB84A8254F10B7 SMTP aa05151@imcap.ap.ssmb.com aa05151@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid714265514_2_prt_month201504; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 82830 and value (limited to 100 characters): 'ED822E17AAE8C525 SMTP rl90052@imceu.eu.ssmb.com rl90052@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3005081385_2_prt_month201505; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 439797 and value (limited to 100 characters): 'D99F035C61CE3AA9 SMTP dl.gct.sg.gct.g2c.deployment@imcap.ap.ssmb.com dl.gct.sg.gct.g2c.deployment@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201506; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 39128 and value (limited to 100 characters): 'B8FE1D7C36DE34AC SMTP *CTI LATAM BCS Management dl.cti.latam.bcs.management@imcla.lac.nsroot.net D76' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4002597080_2_prt_month201505; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 480775 and value (limited to 100 characters): '983FD397C18DED54 SMTP aa77156@imcap.ap.ssmb.com aa77156@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3005081385_2_prt_month201506; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1110567 and value (limited to 100 characters): '7CEB84A76BED0FEE SMTP dl.ap.ph.rohq.all@imcap.ap.ssmb.com dl.ap.ph.rohq.all@imcap.ap.ssmb.com 67135C' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201506; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 673627 and value (limited to 100 characters): '1AD5B2A972D76055 SMTP aa27965@imcap.ap.ssmb.com aa27965@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1523296997_2_prt_month201602; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 729073 and value (limited to 100 characters): ' sj44647@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com  Regioncode=APAC EDDE629C3A65656F Countrycode=' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3005081385_2_prt_month201406; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 654443 and value (limited to 100 characters): 'CCFD362D7571CC12 SMTP aa43838@imceu.eu.ssmb.com aa43838@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201406; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 285491 and value (limited to 100 characters): 'D99F035C61CE3AA9 SMTP dl.gct.sg.gct.g2c.deployment@imcap.ap.ssmb.com dl.gct.sg.gct.g2c.deployment@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid554512484_2_prt_month201406; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 398178 and value (limited to 100 characters): '69F476B6677D3317 SMTP 41319c@iuo.ssmb.com 41319c@iuo.ssmb.com 273531E2 iuo.ssmb.com   7347295AA853D0' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 450895 and value (limited to 100 characters): '3D0469ACE14540A9 SMTP dl.gcb.emea.hub.rainbow.stls@imceu.eu.ssmb.com dl.gcb.emea.hub.rainbow.stls@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3005081385_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2390183 and value (limited to 100 characters): 'C09F11FB674D896B SMTP dl.cmb.global.cat.users@imcla.lac.nsroot.net dl.cmb.global.cat.users@imcla.lac' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 101181 and value (limited to 100 characters): 'D0FDC08EBAF846EB SMTP aa16593@imcla.lac.nsroot.net aa16593@imcla.lac.nsroot.net D760103B imcla.lac.n' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid821590848_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 278358 and value (limited to 100 characters): 'CD436E33C0553368 SMTP ab91000@imcla.lac.nsroot.net ab91000@imcla.lac.nsroot.net D760103B imcla.lac.n' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 860822 and value (limited to 100 characters): 'C571962F623BD904 SMTP algo.development@imceu.eu.ssmb.com algo.development@imceu.eu.ssmb.com FFDED819' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2735232970_2_prt_month201405; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 30472 and value (limited to 100 characters): 'DD0200695D3A9601 SMTP aa21980@imcap.ap.ssmb.com aa21980@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_merged_1_prt_28; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_28" does not exist ===>>  ANALYZE public.folderdocument_upds; ===>> ERROR:  relation "public.folderdocument_upds" does not exist ===>>  ANALYZE public.folderdocument_upds_ext; ===>> ERROR:  relation "public.folderdocument_upds_ext" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_27; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_27" does not exist ===>>  ANALYZE public.folderdocument_upds; ===>> ERROR:  relation "public.folderdocument_upds" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_11; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_11" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_12; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_12" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_13; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_13" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_14; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_14" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_15; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_15" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_16; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_16" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_17; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_17" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_18; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_18" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_19; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_19" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_20; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_20" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_21; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_21" does not exist ===>>  ANALYZE public.folderdocument_merged; ===>> ERROR:  relation "public.folderdocument_merged" does not exist ===>>  ANALYZE public.folderdocument_partition; ===>> ERROR:  relation "public.folderdocument_partition" does not exist ===>>  ANALYZE public.folderdocument_upds2; ===>> ERROR:  relation "public.folderdocument_upds2" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_26; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_26" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_outlying_date; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_outlying_date" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_2; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_2" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_3; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_3" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_4; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_4" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_5; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_5" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_6; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_6" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_7; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_7" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_8; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_8" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_9; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_9" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_10; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_10" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_24; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_24" does not exist ===>>  ANALYZE public.folderdocument_merged_1_prt_25; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_25" does not exist ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_merged_1_prt_22; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_22" does not exist ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_merged_1_prt_23; ===>> ERROR:  relation "public.folderdocument_merged_1_prt_23" does not exist ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 683462 and value (limited to 100 characters): ' [GCG-NAOT NE] nd33743@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com  BrokerDealer=False 67AA85AC2CBD' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201311; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2534680 and value (limited to 100 characters): '     B9EA6E20A0BC38F1 SMTP Fretwell, Mark [GCG-NAOT NE] mf95050@imcnam.ssmb.com 5E616A59 imcnam.ssmb' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201402; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1030042 and value (limited to 100 characters): 'FA6E26A18B7F4D93 SMTP aa03872@imcnam.ssmb.com aa03872@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201403; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2010610 and value (limited to 100 characters): 'E603957B9C9FE7F8 SMTP apcibapgfmtsupport@imcap.ap.ssmb.com apcibapgfmtsupport@imcap.ap.ssmb.com 6713' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201404; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1385220 and value (limited to 100 characters): 'D4BE2F9A6DC13EE8 SMTP dl.gts.bcc.global.sev.2.outage@imcnam.ssmb.com dl.gts.bcc.global.sev.2.outage@' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1363475287_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1964147 and value (limited to 100 characters): '487D14229797B071 SMTP *gco_eu_research_gatekeeper@imceu.eu.ssmb.com *gco_eu_research_gatekeeper@imce' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 691528 and value (limited to 100 characters): 'D99F035C61CE3AA9 SMTP dl.gct.sg.gct.g2c.deployment@imcap.ap.ssmb.com dl.gct.sg.gct.g2c.deployment@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201311; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 289850 and value (limited to 100 characters): 'F4647B3C61E90F96 SMTP dl.fi.mo.gfast@imcnam.ssmb.com dl.fi.mo.gfast@imcnam.ssmb.com 5E616A59 imcnam.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201401; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1313989 and value (limited to 100 characters): '7F7F296DFCC36D85 SMTP dl.str.senior.management@imcnam.ssmb.com dl.str.senior.management@imcnam.ssmb.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4002597080_2_prt_month201310; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1499337 and value (limited to 100 characters): '5BC72C83F6653720 SMTP aa26312@imcnam.ssmb.com aa26312@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Brok' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid951755443_2_prt_month201702; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1215136 and value (limited to 100 characters): '3FC127228B995CFA SMTP dl.str.securities.services.operations.global@imcnam.ssmb.com dl.str.securities' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1124160319_2_prt_month201702; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2540902 and value (limited to 100 characters): ' D9F5A1AF35A8D01C  DCF977FB516D2E30 SMTP ra38760@imcap.ap.ssmb.com ra38760@imcap.ap.ssmb.com 67135C3' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201401; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 802366 and value (limited to 100 characters): ' FB625D648BC5A88B GOCcode=100142422 71AF50E316A182FA SOEID=JS56616 2AEF5B6B7A6DBFBA BrokerDealer=Fal' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201403; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 46502 and value (limited to 100 characters): 'D324145371EBD297 SMTP ai91716@imcap.ap.ssmb.com ai91716@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2813207357_2_prt_month201404; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 47956 and value (limited to 100 characters): 'DAA5C455FB1DD7E2 SMTP aa56871@imcnam.ssmb.com aa56871@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3531157022_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 92541 and value (limited to 100 characters): 'B273373108E9DB9E SMTP aa46124@imcnam.ssmb.com aa46124@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Brok' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1601715309_2_prt_month201312; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 463484 and value (limited to 100 characters): 'E14CBAB7D9CADE6F SMTP dl.gt.public.im.notification@imcnam.ssmb.com dl.gt.public.im.notification@imcn' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 138093 and value (limited to 100 characters): 'BB1A41F5ACA33633 SMTP Davis, Bonita [GCG-NAOT] bd98266@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Bro' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201310; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1440072 and value (limited to 100 characters): '  D85ECAF7CF09748F SMTP dl.str.one.court.square.lic.i.dl@imcnam.ssmb.com dl.str.one.court.square.lic' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201401; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 32404 and value (limited to 100 characters): 'D6720A609E3C0299 SMTP LL84276@imceu.eu.ssmb.com LL84276@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201403; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2569396 and value (limited to 100 characters): ' BrokerDealer=False 67AA85AC2CBD9941 Trader=False D9F5A1AF35A8D01C  EF8BA5D343DBD78E SMTP pm87321@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid821590848_2_prt_month201404; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 47945 and value (limited to 100 characters): '8C71DF33B12ACB71 SMTP am19419@imcnam.ssmb.com am19419@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1402825265_2_prt_month201401; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2770223 and value (limited to 100 characters): '   AF26BD7CC797B419 BrokerDealer=True 23454B4A098A9365 Trader=True B3ACD8095CD653FF  F344CD803317A2A' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1402825265_2_prt_month201404; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 84461 and value (limited to 100 characters): 'F7C88EA1FCF18E3A SMTP ab01246@imcap.ap.ssmb.com ab01246@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2519565350_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 913359 and value (limited to 100 characters): 'CBDEE404C936E818 SMTP aa02069@imcnam.ssmb.com aa02069@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Brok' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2735232970_2_prt_month201403; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 29943 and value (limited to 100 characters): 'DD0200695D3A9601 SMTP aa21980@imcap.ap.ssmb.com aa21980@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1799858904_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 59289 and value (limited to 100 characters): '5FB690CC4BFEC2E SMTP ab57278@imcla.lac.nsroot.net ab57278@imcla.lac.nsroot.net D760103B imcla.lac.ns' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid767779880_2_prt_month201310; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 45665 and value (limited to 100 characters): 'A5C0109D6A85DD11 SMTP ab86598@imcap.ap.ssmb.com ab86598@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3984997994_2_prt_month201309; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 887225 and value (limited to 100 characters): 'CBDEE404C936E818 SMTP aa02069@imcnam.ssmb.com aa02069@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Brok' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4201977955_2_prt_month201411; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 50198 and value (limited to 100 characters): 'DFCD6A65F70D5C0C SMTP dm74209@imceu.eu.ssmb.com dm74209@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201411; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 311026 and value (limited to 100 characters): 'BC0100B92AF83A42 SMTP ecmuspricerecipnts@imcnam.ssmb.com ecmuspricerecipnts@imcnam.ssmb.com 5E616A59' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201407; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 58825 and value (limited to 100 characters): 'E7A529A234F723A1 SMTP ab76786@imcap.ap.ssmb.com ab76786@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2068557872_2_prt_month201603; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 27799 and value (limited to 100 characters): 'AE83C99388E29429 SMTP aa93195@imcnam.ssmb.com aa93195@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201603; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 389726 and value (limited to 100 characters): '1AD5B2A972D76055 SMTP aa27965@imcap.ap.ssmb.com aa27965@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201407; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 973769 and value (limited to 100 characters): 'A02562A1042F1C6F SMTP *gct_db_runtime_rainbow@imcnam.ssmb.com *gct_db_runtime_rainbow@imcnam.ssmb.co' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3531157022_2_prt_month201407; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 767266 and value (limited to 100 characters): 'F7C88EA1FCF18E3A SMTP ab01246@imcap.ap.ssmb.com ab01246@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2428537202_2_prt_month201407; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 119791 and value (limited to 100 characters): 'F9EE722203A9645D SMTP ab84361@imceu.eu.ssmb.com ab84361@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1363475287_2_prt_month201411; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 212959 and value (limited to 100 characters): 'AE548C99BCEEF122 SMTP dl.gt.apac.cet.senior.business.notifications@imcap.ap.ssmb.com dl.gt.apac.cet.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4002597080_2_prt_month201408; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1269801 and value (limited to 100 characters): 'D99F035C61CE3AA9 SMTP dl.gct.sg.gct.g2c.deployment@imcap.ap.ssmb.com dl.gct.sg.gct.g2c.deployment@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201408; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 438028 and value (limited to 100 characters): '855957E068C573B SMTP aa15099@imcap.ap.ssmb.com aa15099@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com ' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1226489242_2_prt_month201408; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 106832 and value (limited to 100 characters): 'E9CC822675FD1F10 SMTP Braden, Kristine [ICG-CIB] kb79680@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.co' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4201977955_2_prt_month201408; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 418356 and value (limited to 100 characters): 'F9C2AF02E808FB97 SMTP aa14279@imcnam.ssmb.com aa14279@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1188432292_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 179987 and value (limited to 100 characters): 'E293C1ECAF40881E SMTP ab27248@imcap.ap.ssmb.com ab27248@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1317611601_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 67841 and value (limited to 100 characters): 'DBF8B12F7C8E9C0D SMTP aa38196@imcap.ap.ssmb.com aa38196@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2813207357_2_prt_month201608; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 164146 and value (limited to 100 characters): 'A54A32D61A727068 SMTP aa32501@imcnam.ssmb.com aa32501@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3434424076_2_prt_month201603; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 69586 and value (limited to 100 characters): 'FC694D33807DDBB5 SMTP ab48413@imceu.eu.ssmb.com ab48413@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2735232970_2_prt_month201603; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1411769 and value (limited to 100 characters): ' 65792D4004BC284A SOEID=BK04395 3DE77BCDF4738356 GEID=0000705472 FD8B9CCA8124346C RITS=0000204395 A7' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201501; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1118157 and value (limited to 100 characters): '201F326A3640BD99 SMTP 5037ys@iuo.ssmb.com 5037ys@iuo.ssmb.com 273531E2 iuo.ssmb.com   7E7D45048E3C35' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201501; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 953678 and value (limited to 100 characters): 'D72FDD6D3D91FF04 SMTP dl.ra.global.optima.active.users@imcla.lac.nsroot.net dl.ra.global.optima.acti' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid903005342_2_prt_month201501; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 38129 and value (limited to 100 characters): 'E60E8EBAD9890B5 SMTP ab43910@imceu.eu.ssmb.com ab43910@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com ' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1955742280_2_prt_month201410; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 57420 and value (limited to 100 characters): 'F84F21E31C445D4E SMTP bs00520@imcap.ap.ssmb.com bs00520@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1201087529_2_prt_month201410; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2964304 and value (limited to 100 characters): 'CF49B10D02C305A8 SMTP dl.aa.us.markets.misc@imcnam.ssmb.com dl.aa.us.markets.misc@imcnam.ssmb.com 5E' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201410; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 439403 and value (limited to 100 characters): 'BE6B4501B7264F9D SMTP aa28524@imcap.ap.ssmb.com aa28524@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201410; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 80342 and value (limited to 100 characters): '22AE67E4B1CA5074 SMTP aa06014@imcnam.ssmb.com aa06014@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2272465491_2_prt_month201409; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 984878 and value (limited to 100 characters): 'F2CFD2279CC37AD3 SMTP aa02028@imcap.ap.ssmb.com aa02028@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1753191981_2_prt_month201409; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 490975 and value (limited to 100 characters): 'F31AA1B6143C01D6 SMTP cmb.global.fxlm.ecom.infrastructure@imceu.eu.ssmb.com cmb.global.fxlm.ecom.inf' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1555674818_2_prt_month201409; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 27429 and value (limited to 100 characters): 'F904B35D1D2FAC0F SMTP ac15999@imcap.ap.ssmb.com ac15999@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1601715309_2_prt_month201409; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 3574647 and value (limited to 100 characters): 'CF49B10D02C305A8 SMTP dl.aa.us.markets.misc@imcnam.ssmb.com dl.aa.us.markets.misc@imcnam.ssmb.com 5E' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid297102913_2_prt_month201410; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 32182 and value (limited to 100 characters): 'F735D1ECB7560DB2 SMTP 3085070@imcap.ap.ssmb.com 3085070@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2263588074_2_prt_month201409; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 763577 and value (limited to 100 characters): 'B39242A55ECB9DF8 SMTP dl.cate.global.sd.martin.team@imceu.eu.ssmb.com dl.cate.global.sd.martin.team@' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4201977955_2_prt_month201502; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 42099 and value (limited to 100 characters): 'F2C4E28F2F76B2E2 SMTP al89343@imcap.ap.ssmb.com al89343@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1317611601_2_prt_month201502; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1449052 and value (limited to 100 characters): '73943821B6C4503 SMTP dl.gts.bcc.global.tts.sev.1.outage@imcnam.ssmb.com dl.gts.bcc.global.tts.sev.1.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2813207357_2_prt_month201502; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 123480 and value (limited to 100 characters): 'C9B5D6C9E79E26DD SMTP ao71483@imcla.lac.nsroot.net ao71483@imcla.lac.nsroot.net D760103B imcla.lac.n' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3039737736_2_prt_month201705; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 38290 and value (limited to 100 characters): 'DE5F6EF8D202D52D SMTP aa03685@imcap.ap.ssmb.com aa03685@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1124160319_2_prt_month201705; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 277203 and value (limited to 100 characters): 'DA30EDEB9F1F2F3C SMTP aa16467@imcnam.ssmb.com aa16467@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3187464904_2_prt_month201704; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 701058 and value (limited to 100 characters): ' GOCcode=100127097 BABBBE19EA8F0561 Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=  79' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3356617156_2_prt_month201704; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1466212 and value (limited to 100 characters): '  Trader=False D9F5A1AF35A8D01C Regioncode=NAM FB617FC110AD9340 Countrycode=US DE83E5530EEA1F8B Loca' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2328504389_2_prt_month201704; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 515882 and value (limited to 100 characters): 'CF8943236EFB87B1 SMTP dl.ocis.global.ocis.global.csfc.daily.brief.recipients@imcnam.ssmb.com dl.ocis' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1246457082_2_prt_month201704; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 811981 and value (limited to 100 characters): 'D340B97E0F5CF8C7 SMTP aa47875@imcap.ap.ssmb.com aa47875@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid640580001_2_prt_month201704; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 46893 and value (limited to 100 characters): 'F9C2AF02E808FB97 SMTP aa14279@imcnam.ssmb.com aa14279@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3039737736_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 65479 and value (limited to 100 characters): 'AB28D722A88B832F SMTP ad17006@imceu.eu.ssmb.com ad17006@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3187464904_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1284050 and value (limited to 100 characters): ' Expensecode=CSTS0611 BD42B5F0D82F9092 ManagedSegment=24566 A83DB783FC1FA2A1 SOEID=BZ33622 FC9D9CEF8' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3356617156_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 770703 and value (limited to 100 characters): ' B973F861A9EC856 Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=SG6914 EB6FB43D3ABD4A13' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3957295435_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 47975 and value (limited to 100 characters): 'FDED04E3D42C58BA SMTP ad06512@imcap.ap.ssmb.com ad06512@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2328504389_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 229835 and value (limited to 100 characters): 'DAD41FB1B807423C SMTP apeqsldn@imcap.ap.ssmb.com apeqsldn@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.c' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1310165219_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1028453 and value (limited to 100 characters): ' ManagedSegment=4589 53E23F96B24A4A11 SOEID=YW01558 957D345307A389CD GEID=1010501558 3E0476F9FBED5ED' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid589085320_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 735605 and value (limited to 100 characters): 'F9C2AF02E808FB97 SMTP aa14279@imcnam.ssmb.com aa14279@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid640580001_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 170911 and value (limited to 100 characters): ' C48A83178567970A SMTP ag33478@imceu.eu.ssmb.com ag33478@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.co' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1124160319_2_prt_month201703; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 865530 and value (limited to 100 characters): ' EFC07C3DB068878A GEID=1010739340 761EA5A29C4415F RITS=1010739340 4F4162BA5F917CA0 BrokerDealer=Fals' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2510625808_2_prt_month201708; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 514137 and value (limited to 100 characters): 'C6414296A820991E SMTP dl.fi.eu.credit.sales@imceu.eu.ssmb.com dl.fi.eu.credit.sales@imceu.eu.ssmb.co' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3039737736_2_prt_month201706; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 946829 and value (limited to 100 characters): ' GOCcode=13443904 F9C6CD4AD7617473 Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=ID390' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1246457082_2_prt_month201706; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1131547 and value (limited to 100 characters): '  Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=2195 96D3DD1BE03FCE23 ManagedSegment=1' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1249433725_2_prt_month201706; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 53653 and value (limited to 100 characters): 'D75463A8748A7E96 SMTP aa19733@imcnam.ssmb.com aa19733@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3039737736_2_prt_month201707; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 92931 and value (limited to 100 characters): 'DBF8B12F7C8E9C0D SMTP aa38196@imcap.ap.ssmb.com aa38196@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1124160319_2_prt_month201707; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 5037201 and value (limited to 100 characters): ' Expensecode=GB7789 BC3D6EECD5A9352C ManagedSegment=24441 988FD488ACE4A238 SOEID=EL97226 17180F27A8D' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1246457082_2_prt_month201707; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 49019 and value (limited to 100 characters): 'C3BFE4770B75D14C SMTP ab50643@imcnam.ssmb.com ab50643@imcnam.ssmb.com 5E616A59 imcnam.ssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1310165219_2_prt_month201707; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 750872 and value (limited to 100 characters): ' rc81675@imcla.lac.nsroot.net D760103B imcla.lac.nsroot.net  Regioncode=LATM DD53B54571540C3 Country' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid720653622_2_prt_month201707; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1119734 and value (limited to 100 characters): '    B015FD17C36EABFE SMTP dl.ap.asia.credit.sales@imcap.ap.ssmb.com dl.ap.asia.credit.sales@imcap.ap' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4211755801_2_prt_month201711; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 59523 and value (limited to 100 characters): 'D73DDE2CF56AB590 SMTP aa94469@imcap.ap.ssmb.com aa94469@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4258168342_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 521507 and value (limited to 100 characters): 'EC659C84CCF0DF42 SMTP dl.citi.india.employees.list@imcap.ap.ssmb.com dl.citi.india.employees.list@im' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4137770569_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1414201 and value (limited to 100 characters): 'E2A84E672088D73C SMTP dl.gct.global.cto.env.g2c.reporting@imcap.ap.ssmb.com dl.gct.global.cto.env.g2' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3232311834_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 339024 and value (limited to 100 characters): 'E6689D4850424446 SMTP aa94499@imcjp.nssmb.com aa94499@imcjp.nssmb.com 19A26C47 imcjp.nssmb.com  Regi' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3291639247_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 464965 and value (limited to 100 characters): 'DAD41FB1B807423C SMTP apeqsldn@imcap.ap.ssmb.com apeqsldn@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.c' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2741323573_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 31437 and value (limited to 100 characters): 'CD93D89EEC9AF837 SMTP ac18677@imceu.eu.ssmb.com ac18677@imceu.eu.ssmb.com FFDED819 imceu.eu.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1148327367_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1215032 and value (limited to 100 characters): '   ManagedSegment=24530 4E5448DF4D6BAA47 SOEID=IO30391 2ED135DD72D2BB56 GEID=1010030391 D444E1F655E6' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3960559371_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1832604 and value (limited to 100 characters): ' 2B456CA4AD3C7A63 Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=S63127 1DE14A9DDF84D0D' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid4070911513_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 418296 and value (limited to 100 characters): 'FC24C574A33FB8B6 SMTP dl.gct.apac.wm.ipp.env@imcap.ap.ssmb.com dl.gct.apac.wm.ipp.env@imcap.ap.ssmb.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2510625808_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 681605 and value (limited to 100 characters): ' D9F5A1AF35A8D01C  D26E8C0D6E46160C SMTP yl80721@imcap.ap.ssmb.com yl80721@imcap.ap.ssmb.com 67135C3' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2151812854_2_prt_month201709; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 5499482 and value (limited to 100 characters): '       BrokerDealer=False 67AA85AC2CBD9941 Countrycode=IN A9F12CA855F31BE4 Departmentcode=Retired093' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3232311834_2_prt_month201711; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 232813 and value (limited to 100 characters): 'EE99A129E7125171 SMTP ausfisales@imcau.au.ssmb.com ausfisales@imcau.au.ssmb.com 92F164BE imcau.au.ss' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2905308271_2_prt_month201711; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1185566 and value (limited to 100 characters): '9424F520753E1A1F SMTP dl.us.sanctions.compliance@imcnam.ssmb.com dl.us.sanctions.compliance@imcnam.s' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1770500748_2_prt_month201711; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 275840 and value (limited to 100 characters): 'CDC02E52A4C98358 SMTP aa64908@imcap.ap.ssmb.com aa64908@imcap.ap.ssmb.com 67135C3C imcap.ap.ssmb.com' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2755074439_2_prt_month201710; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 282213 and value (limited to 100 characters): 'DDA9B74652522DA7 SMTP dl.gt.global.futures.cfox.notification@imcap.ap.ssmb.com dl.gt.global.futures.' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid1015331311_2_prt_month201712; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 2123341 and value (limited to 100 characters): '  GOCcode=155150919 3616842B122457B2 Departmentcode=Retired09302014 5A973520EC0BD547 Expensecode=  7' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid2807137260_2_prt_month201712; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 4636193 and value (limited to 100 characters): 'E86DA15C52C874AB SMTP dl.citi.in.csil.all.employees@imcap.ap.ssmb.com dl.citi.in.csil.all.employees@' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3213100060_2_prt_month201712; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 1690379 and value (limited to 100 characters): ' Countrycode=ID 4934AB57CCE79E61 Locationcode=14413 53647DB09E0BCB0 GOCcode=1357001051 8193424143EAA' (string_wrapper.h:95) ===>> -- ===>> 
+
+ ANALYZE public.folderdocument_1_prt_tid3291639247_2_prt_month201712; ===>> ERROR:  Unable to process string for comparison or sorting.  Error: Cannot allocate memory.  String has length 463762 and value (limited to 100 characters): 'EB4FF2BB59D66600 SMTP dl.cmb.uk.middle.office.client.visits@imceu.eu.ssmb.com dl.cmb.uk.middle.offic' (string_wrapper.h:95) ===>> 
